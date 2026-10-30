@@ -100,9 +100,16 @@ def main() -> int:
     partial = snaps[-1] if snaps and not snaps[-1]['complete'] and (not latest or snaps[-1]['through'] > latest['through']) else None
     VIEWS.mkdir(exist_ok=True)
     stamp = {'by': BY, 'built': dt.datetime.now(dt.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'), 'complete_threshold': COMPLETE}
-    (VIEWS / 'series.json').write_text(json.dumps({**stamp, 'snapshots': snaps}, indent=1) + '\n')
-    (VIEWS / 'latest.json').write_text(json.dumps({**stamp, 'latest': latest, 'previous': earlier[-1] if earlier else None,
-                                                    'partial': partial}, indent=1) + '\n')
+    def write(name, body):
+        # rewrite only when the content changes, so an unchanged run leaves git clean
+        f = VIEWS / name
+        if f.exists():
+            old = json.loads(f.read_text()); old.pop('built', None)
+            if old == {k: v for k, v in body.items() if k != 'built'}:
+                return
+        f.write_text(json.dumps(body, indent=1) + '\n')
+    write('series.json', {**stamp, 'snapshots': snaps})
+    write('latest.json', {**stamp, 'latest': latest, 'previous': earlier[-1] if earlier else None, 'partial': partial})
     print(f'{len(snaps)} snapshots, {len(complete)} complete; latest complete through {latest["through"] if latest else None} '
           f'({latest["counties"] if latest else 0} counties); partial newer: {bool(partial)}')
     return 0
