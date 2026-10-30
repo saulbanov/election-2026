@@ -1,0 +1,314 @@
+                                      2018 General Election
+                                      Early Voting Analysis
+                                        October 30, 2018
+The following information is based on data collected from the top 15 largest counties in the state only.
+It does not include data from all counties, but the information provides a snapshot of a large portion of
+the state’s early voters. In 2014, these 15 counties accounted for 63.9% of all votes cast in the U.S.
+Senate race; 76.6% of all votes cast for David Alameel; and 56.6% of all votes cast for John Cornyn.
+
+                     Early Voters – By Previous Election History
+
+                                              9.5%
+
+
+                                                                        31.5%
+
+
+
+                                  28.6%
+
+
+
+
+                                                                         1.0%
+                                       1.7%
+
+                                                        27.7%
+
+                                                          2018 General          2016 General   2014 General
+                       Category
+                                                            Election              Election*      Election*
+ Voters with past Republican Primary history, but no
+                                                                31.5%              31.3%          32.0%
+ previous Democratic Primary history
+ Voters who have voted in both party’s primaries, but
+                                                                1.0%               1.1%           6.0%
+ most recently voted in a Republican Primary
+ Voters with past Democratic Primary history, but no
+                                                                27.7%              20.7%          33.4%
+ previous Republican Primary history
+ Voters who have voted in both party’s primaries, but
+                                                                1.7%               1.0%           1.2%
+ most recently voted in a Democratic Primary
+ Voters with no Primary Election history (Republican
+                                                                28.6%              30.0%          22.4%
+ or Democratic), but have voted in a General Election
+ Voters with no Primary Election history (Republican
+                                                                9.5%               15.8%          5.0%
+ or Democratic) or General Election history
+
+*Percentages are for the entirety of the early voting period.
+                           Are Republicans Showing Up to Vote?
+
+The following is a breakdown of voters with previous Republican Primary election history and whether
+they have voted early or not. For example, of the voters who have voted in all four of the previous four
+Republican Primaries (2012 – 2018) in the largest counties, 73.5% have voted early.
+
+
+                                  0%   10%   20%    30%    40%    50%       60%   70%     80%   90%   100%
+
+
+              4R / No D History
+
+
+
+              3R / No D History
+
+
+
+              2R / No D History
+
+
+
+              1R / No D History
+
+
+
+           Mixed / Last Voted R
+
+
+
+                                                   Voted   Have Not Voted
+
+
+
+
+                                                                                        Voted         Have Not
+   Category
+                                                                                        Early         Voted Yet
+   4Rs - Voters who have voted in all four of the previous four
+   Republican Primary elections.                                                    73.5%               26.5%
+                       (In 2014, 78.9% voted during early voting.)
+   3Rs - Voters who have voted in exactly three of the previous
+   four Republican Primary elections.                                               65.5%               34.5%
+                       (In 2014, 65.1% voted during early voting.)
+   2Rs - Voters who have voted in exactly two of the previous
+   four Republican Primary elections.                                               57.2%               42.8%
+                       (In 2014, 51.5% voted during early voting.)
+   1Rs - Voters who have voted in exactly one of the previous
+   four Republican Primary elections.                                               39.5%               60.5%
+                       (In 2014, 32.9% voted during early voting.)
+   Mixed - Voters with both Rep and Dem Primary election
+   history, but most recently voted in a Republican Primary.                        59.8%               40.2%
+                       (In 2014, 56.9% voted during early voting.)
+                             Are Democrats Showing Up to Vote?
+The following is a breakdown of voters with previous Democratic Primary election history and whether
+they have voted early or not. For example, of the voters who have voted in all four of the previous four
+Democratic Primaries (2012 – 2018) in the largest counties, 73.4% have voted early.
+
+
+                                  0%   10%   20%    30%    40%    50%       60%   70%     80%   90%   100%
+
+
+              4D / No R History
+
+
+
+              3D / No R History
+
+
+
+              2D / No R History
+
+
+
+              1D / No R History
+
+
+
+           Mixed / Last Voted D
+
+
+
+                                                   Voted   Have Not Voted
+
+
+
+
+                                                                                        Voted         Have Not
+   Category
+                                                                                        Early         Voted Yet
+   4Ds - Voters who have voted in all four of the previous four
+   Democratic Primary elections.                                                    73.4%               26.6%
+                       (In 2014, 75.2% voted during early voting.)
+   3Ds - Voters who have voted in exactly three of the previous
+   four Democratic Primary elections.                                               66.7%               33.3%
+                       (In 2014, 61.9% voted during early voting.)
+   2Ds - Voters who have voted in exactly two of the previous
+   four Democratic Primary elections.                                               61.9%               38.1%
+                       (In 2014, 47.6% voted during early voting.)
+   1Ds - Voters who have voted in exactly one of the previous
+   four Democratic Primary elections.                                               43.2%               56.8%
+                       (In 2014, 24.1% voted during early voting.)
+   Mixed - Voters with both Rep and Dem Primary election
+   history, but most recently voted in a Democratic Primary.                        64.0%               36.0%
+                       (In 2014, 60.8% voted during early voting.)
+                Who is Voting Early in the 2018 General Election?
+                             (Select counties only)
+The following is a breakdown of who voted early in the General Election based on their past Primary and General
+Election History. (Example: In Bexar County, 28.0% of the people who voted early were previous Republican
+Primary voters with no past Democratic Primary history.)
+
+
+                   Previous R                     Previous D                      Previous Gen
+                     Primary        Previous        Primary         Previous          Voter
+                      Voter          Mixed           Voter           Mixed        No Previous    No Previous
+                   No Previous      Primary       No Previous       Primary           R or D      General or
+                    D Primary     Last Voted in    R Primary      Last Voted in      Primary       Primary
+     County          History      an R Primary      History       an D Primary       History       History
+
+     BEXAR           28.0%           1.2%           29.9%            1.8%           29.2%           9.8%
+   CAMERON           15.0%           3.2%           43.4%            2.5%           24.4%          11.3%
+     COLLIN          40.0%           0.7%           17.5%            1.4%           30.4%           9.9%
+    DALLAS           26.6%           0.8%           32.8%            1.9%           28.9%           8.9%
+    DENTON           40.3%           0.7%           16.9%            1.4%           30.5%          10.2%
+    EL PASO          12.1%           2.5%           44.3%            3.2%           26.2%          11.7%
+  FORT BEND          33.5%           0.5%           23.3%            1.4%           32.6%           8.7%
+  GALVESTON          43.9%           1.5%           17.2%            1.1%           28.4%           7.9%
+    HARRIS           31.7%           0.6%           26.7%            1.4%           30.9%           8.7%
+    HIDALGO          10.4%           2.8%           49.7%            2.8%           22.8%          11.5%
+ MONTGOMERY          54.4%           0.6%            8.6%            1.0%           23.6%          11.7%
+    NUECES           33.9%           1.7%           28.4%            1.8%           25.9%           8.3%
+   TARRANT           39.3%           1.0%           23.1%            1.5%           27.2%           8.0%
+    TRAVIS*          18.1%           1.2%           42.0%            1.9%           25.1%          11.7%
+  WILLIAMSON         37.5%           0.9%           22.2%            1.8%           27.0%          10.5%
+
+  *Travis County’s totals are one day behind. The county does not send out the previous day’s early
+                                voting lists until 6pm the following day.
+                    Turnout by Previous Primary Voting Strength
+                               (Select counties only)
+The following is a breakdown of the percentages of each group who voted early. (Example: In Bexar County,
+72.7% of the voters who voted in all four of the previous four Republican Primaries have cast their vote during
+early voting.)
+
+                    4x REP      3x REP      2x REP      1x REP      4x DEM      3x DEM      2x DEM      1x DEM
+     County         Primary     Primary     Primary     Primary     Primary     Primary     Primary     Primary
+                    Voters      Voters      Voters      Voters      Voters      Voters      Voters      Voters
+
+     BEXAR          72.7%       64.0%       57.0%       39.8%       76.9%       70.2%       64.7%       45.0%
+   CAMERON          63.5%       55.3%       47.4%       36.4%       63.1%       46.2%       35.7%       24.1%
+     COLLIN         80.7%       72.5%       65.1%       46.7%       87.3%       82.6%       76.5%       56.7%
+     DALLAS         73.2%       64.9%       56.9%       39.4%       76.4%       70.5%       64.9%       45.5%
+    DENTON          77.2%       69.7%       61.1%       43.2%       83.9%       80.3%       73.0%       51.4%
+    EL PASO         69.2%       60.3%       51.6%       34.7%       70.2%       60.3%       54.0%       38.2%
+   FORT BEND        79.1%       71.6%       62.3%       43.4%       81.3%       77.4%       72.1%       53.1%
+  GALVESTON         80.1%       70.6%       61.8%       43.5%       83.6%       75.6%       72.0%       50.5%
+     HARRIS         71.9%       65.1%       55.3%       37.2%       75.1%       69.9%       63.3%       42.8%
+    HIDALGO         79.5%       68.7%       59.2%       38.9%       66.5%       52.3%       41.9%       28.6%
+ MONTGOMERY         72.5%       63.5%       54.0%       37.1%       76.4%       71.3%       67.9%       44.9%
+    NUECES          71.3%       59.7%       53.9%       37.4%       71.4%       63.1%       52.3%       34.1%
+    TARRANT         73.4%       64.8%       56.2%       38.7%       76.7%       70.4%       64.9%       44.1%
+    TRAVIS*         58.9%       51.4%       45.4%       32.2%       67.6%       61.2%       57.2%       40.5%
+  WILLIAMSON        76.9%       69.2%       62.0%       43.6%       85.8%       81.8%       76.0%       55.2%
+
+  *Travis County’s totals are one day behind. The county does not send out the previous day’s early
+                                voting lists until 6pm the following day.
+                                      Early Voter Demographics
+
+                                                           By Age
+            30.0%
+
+            25.0%
+
+            20.0%
+
+            15.0%
+
+            10.0%
+
+             5.0%
+
+             0.0%
+                    Under 20   20 to 29   30 to 39   40 to 49   50 to 59     60 to 69   70 to 79   80 to 89   90 and up
+
+                                                       2018     2016       2014
+
+
+
+
+                                                        By Gender
+
+                                                      Female: 52.0%
+
+                                                      Male: 44.2%
+
+                                                      Gender not listed: 3.8%
+
+                                                      (In 2014, 51.8% of early voters were women, 44.1% were men, and
+                                                      4.1% had no gender listed.)
+
+
+
+
+                                                By Hispanic Surname
+
+Hispanic Surname: 19.1%
+
+
+Non-Hispanic Surname: 80.9%
+
+
+(Hispanic voters made up 15.2% of all early voters in 2014.)
+                               Early Voting Cumulative Totals
+                                        2010 to 2018
+                                    Top 15 Counties Only
+3,000,000
+
+
+
+2,500,000
+
+
+
+2,000,000
+
+
+
+1,500,000
+
+
+
+1,000,000
+
+
+
+ 500,000
+
+
+
+       0
+            Day 1   Day 2     Day 3   Day 4   Day 5   Day 6    Day 7      Day 8   Day 9   Day 10   Day 11   Day 12
+
+                                               2010     2014           2018
+
+
+
+
+                                              Cumulative Totals
+
+                               2010                        2014                              2018
+       Day 1                 178,802                     240,653                           572,500
+       Day 2                 315,917                     365,315                           973,747
+       Day 3                 435,077                     485,754                          1,319,582
+       Day 4                 550,939                     600,824                          1,663,749
+       Day 5                 681,512                     726,017                          2,027,251
+       Day 6                 794,867                     837,149                          2,364,989
+       Day 7                 842,204                     878,364                          2,507,589
+       Day 8                 977,527                    1,003,027                         2,823,784
+       Day 9                1,125,673                   1,141,565
+       Day 10               1,283,229                   1,291,393
+       Day 11               1,465,363                   1,464,061
+       Day 12               1,731,589                   1,715,731
+
+                      Based on data provided by the Texas Secretary of State.
+

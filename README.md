@@ -14,7 +14,7 @@ Working files for covering the Texas 2026 elections.
 - [`analysis.md`](general-2026/early-vote/analysis.md): findings, calls, Tarrant County, district maps, and corrections, through Oct. 28 (Day 10), plus the Friday trend check on Oct. 29 (Day 11) data
 - [`benchmarks.md`](general-2026/early-vote/benchmarks.md): Friday, Saturday and Sunday thresholds, set in advance, for turning the final early-vote data into calls
 - `sources/`
-  - `reports/`: Ryan Data & Research Day 8 report; county Day 8 table; Transparency USA statewide, Tarrant and snapshot PDFs (snapshots through Oct. 28, and two through Oct. 29 at 95 and 244 counties)
+  - `reports/`: Ryan Data & Research Day 8 report; Ryan's 2018 day 8 report (15 largest counties only); county Day 8 table; Transparency USA statewide, Tarrant and snapshot PDFs (snapshots through Oct. 28, and two through Oct. 29 at 95 and 244 counties)
   - `maps/`: Transparency USA district-map screenshots (Congress, state Senate, state House, plus metro zooms)
   - `data/`: TexPolls county early-voting CSVs (through Oct. 26 and Oct. 28), which include 2022 same-day turnout
   - `text/`: plain-text extractions of the PDFs, for searching

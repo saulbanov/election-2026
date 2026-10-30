@@ -59,6 +59,10 @@ Derived from Ryan's final 2018/2022 totals plus actual results, assuming 95% of 
 
 \*Before 2018, Democratic primaries were small (Ryan's 2018 file counted only 1.69M Democratic-primary voters, while Beto got 4.05M votes), so many Democrats sat in the "general-only" group. Record Democratic primaries in 2018, 2020 and 2026 moved many into the Democratic column; about 3.3M registered voters now have Democratic primary history.
 
+**Same 15 counties at day 8, 2018 vs. 2026.** Ryan's 2018 day-8 report covers only the 15 largest counties (`sources/reports/2018-10-29_ryan-data-research_day8-15-counties.pdf`). There, Republican primary voters led 32.5% to 29.4%, with 38.1% having no primary history. In the same 15 counties at day 8 of 2026, weighting the county Day 8 table by each county's early votes (shares rounded to whole percents, so about ±0.5 pt), Democratic primary voters lead 41.5% to 26.3%, with 31.7% having no primary history. Part of that swing is relabeling: Democratic primaries were small before 2018, and the record primaries since then moved many Democrats out of the no-primary group. The counts can't separate relabeling from a change in who votes. No statewide 2018 day-8 split was found.
+
+**2018 is not a ceiling.** The central lean (D +8.5) and the 2018-adjusted range (D +10 to +14) are not upper bounds. Hispanic polling this year runs to D +18. A blowout scenario (no-primary voters at D +16, 5M of them) gives Talarico about +6.5 and Hinojosa about +4.0. The turnout data cannot show this before the count.
+
 **Working assumption for 2026:** non-primary voters lean **D +5 to +12**. Evidence: Hispanic polling D +10 to +18 (UH Hobby, Univision, Emerson); a younger, more female electorate; Ryan's note that these voters lean "center and/or left." Counter-evidence: 2022's R +4 and 2024's new-voter surge, which helped Trump. Sensitivity: each 5 points of lean moves the statewide result about 2 points.
 
 ## Friday trend check (data thru Thu., Oct. 29; read Oct. 30)
