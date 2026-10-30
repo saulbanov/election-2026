@@ -1,0 +1,1033 @@
+                                                                 EARLY VOTING REPORT
+                                                                        TEXAS
+                                                                        DAY 8
+The data for this report came from the current database of all registered voters maintained by Ryan Data & Research and
+the lists of people who voted were provided by each county following each day of voting. Data for previous elections is
+based on registered voter databases maintained by Ryan Data & Research during prior election cycles.
+Information based on previous election history takes into consideration each voter's history over the last four election
+cycles. Additional notes and definitions are available on the last two pages.
+
+   Early Votes Cast                                     Registered Voters                                               Turnout %
+          5,105,620                                           19,185,963                                                   26.6%
+          ▲ +49% vs. 2022                                                                                               ▲ +7.4 pts vs. 2022
+
+
+                            Voters by Previous Election History
+                                                        No History 6%
+
+
+
+                                                                                             Rep (No D) 33%
+                                       Gen Only 24%
+
+
+
+
+                                     Mixed Pri / D 2%
+                                                                                             Mixed Pri / R 2%
+
+
+
+
+                                                        Dem (No R) 34%
+
+
+      Rep (No D)            Mixed Pri / R               Dem (No R)             Mixed Pri / D                Gen Only                 No History
+
+
+  1,662,676                 78,374                1,735,883                   104,782                  1,212,439                   311,466
+    ▼ -9.1 pts            ▼ -0.7 pts               ▲ +5.5 pts                 ▼ -0.6 pts                ▲ +2.9 pts                ▲ +1.9 pts
+
+
+                                                   Primary Advantage - D
+
+                                                                   99,615
+                                                   ▼ -536,143 vs. 2022 day 8 (R +436,528)
+                                                   ▼ -893,937 vs. 2024 day 8 (R +794,322)
+                               ▲/▼ = change in share vs. the same point of early voting in the 2022 General Election.
+
+                                                              Field Definitions
+             Rep (No D): Voters who have voted in a previous Republican Primary and have no previous Democrat Primary history.
+            Mixed Pri / R: Voters who have previously voted in both party's primary, but most recently voted in a Republican Primary.
+            Dem (No R): Voters who have voted in a previous Democrat Primary and have no previous Republican Primary history.
+            Mixed Pri / D: Voters who have previously voted in both party's primary, but most recently voted in a Democrat Primary.
+               Gen Only: Voters who have not previously voted in a primary (R or D) but have previous General Election history.
+             No History: Voters who have not previously voted in a primary (R or D) and have no previous General Election history.
+                                            Turnout by County
+Below is a map of early-vote turnout (votes cast through day 8 / registered voters) in each of Texas' 254 counties.
+Statewide, 5,105,620 of 19,185,963 registered voters (26.6%) have voted. Colors split the counties into six equal-size
+groups, from lowest to highest turnout.
+
+
+
+
+                                               10 Largest Counties
+               County    Registered   Votes Cast   Turnout      County      Registered   Votes Cast   Turnout
+               Harris     2,752,965     705,585     25.6%     Collin           789,839     257,275     32.6%
+               Dallas     1,496,386     419,555     28.0%     Denton           688,876     223,396     32.4%
+               Tarrant    1,339,932     390,729     29.2%     Fort Bend        581,778     184,797     31.8%
+               Bexar      1,327,713     335,516     25.3%     El Paso          531,157     105,659     19.9%
+               Travis       947,157     288,708     30.5%     Montgomery       487,461     120,877     24.8%
+                                   Voters by Previous Midterm History
+Below is a chart which shows voters by whether they voted in both of the last two midterm General Elections (2022 and
+2018), voted in one of the two, or did not vote in either.
+
+
+
+          0x Midterm Voters 20%
+                                                                                                         Participation Rate
+                                                                                                                          54%
+
+1x (2018) Midterm Voters
+                     7%                                                                                       34%
+
+                                                                 2x Midterm Voters 59%
+                                                                                                        20%
+   1x (2022) Midterm Voters
+                      15%
+                                                                                                  11%
+
+
+
+
+                                                                                         Voted           Registered
+                                   ■ 2x Midterm Voters                                    2,991,048           5,555,205
+                                   ■ 1x (2022) Midterm Voters                               742,040           2,206,502
+                                   ■ 1x (2018) Midterm Voters                               352,650           1,764,412
+                                   ■ 0x Midterm Voters                                    1,019,882           9,659,844
+
+
+
+
+                                               Voters by Voting Method
+                   2026                                                2022                                                2018
+                              4%                                               4%                                               6%
+                                                                                                                27%
+                                                           32%
+
+
+
+
+                                                                                         64%
+                                                                                                                                     66%
+                 96%
+
+                                                   By Mail / Early in Person / Election Day
+                                            Splits for 2022 and 2018 are for the entirety of the election.
+                                                         2026 Daily Totals
+      Day 1               Day 2                Day 3                 Day 4              Day 5             Day 6                Day 7
+
+      894,080             765,791                704,356              644,661            703,882           526,953             271,329
+
+      Day 8               Day 9              Day 10                 Day 11             Day 12             E Day
+
+      594,568                        0                       0                 0                  0                  0
+
+                                                         2022 Daily Totals
+      Day 1               Day 2                Day 3                 Day 4              Day 5             Day 6                Day 7
+
+      661,476             498,278                469,417              446,870            449,447           330,205             146,166
+
+      Day 8               Day 9              Day 10                 Day 11             Day 12             E Day
+
+      414,546             394,813                438,705              518,988            738,264         2,587,972
+
+                                                   Cumulative Turnout %
+50%                                                                                                                                         46%
+
+
+                                                                                                                                 31%
+                                                                                       27%                            27%
+                                                                  22%        24%                           24%
+                                                       19%                             19%       21%
+                                         16%                      16%        17%
+                              12%                      14%
+                                         12%
+                    9%         9%
+         5%         7%
+         4%
+0%
+        Day 1     Day 2      Day 3       Day 4      Day 5         Day 6      Day 7     Day 8     Day 9    Day 10     Day 11     Day 12      Final
+
+
+                                                             2022 General      2026 General
+
+
+                                                  2026 Cumulative Totals
+      Day 1               Day 2                Day 3                 Day 4              Day 5             Day 6                Day 7
+
+      894,080            1,659,871         2,364,227               3,008,888          3,712,770          4,239,723            4,511,052
+
+      Day 8               Day 9              Day 10                 Day 11             Day 12
+
+  5,105,620
+
+                                                  2022 Cumulative Totals
+      Day 1               Day 2                Day 3                 Day 4              Day 5             Day 6                Day 7
+
+      661,476            1,159,754         1,629,171               2,076,041          2,525,488          2,855,693            3,001,859
+
+      Day 8               Day 9              Day 10                 Day 11             Day 12              Final
+
+  3,416,405              3,811,218         4,249,923               4,768,911          5,507,175          8,095,174
+
+                                                       2026 Pace vs. 2022
+      Day 1               Day 2                Day 3                 Day 4              Day 5             Day 6                Day 7
+
+         135%                143%                  145%                   145%                 147%            148%                150%
+
+      Day 8               Day 9              Day 10                 Day 11             Day 12
+
+         149%
+ Pace = 2026 cumulative votes as a percentage of 2022 cumulative votes through the same day of early voting (100% = same number of votes as 2022).
+               Share of Votes Cast by Previous Election History
+                      2026 vs. 2024 / 2022 Comparison
+Below, is a breakdown of who has voted this year by previous election history and compares the data to the same point in
+the 2024 and 2022 General Elections.
+
+                 2026                                                   2024                                                2022
+               6%                                                  9%                                                      4%
+
+                                                                                                               21%
+                                    33%                                                  34%
+    24%
+                                                                                                                                                 42%
+                                                     32%
+                                                                                                             3%
+     2%
+                                    2%
+                                                                                         2%
+                                                              1%                                                     28%                  2%
+               34%                                                             22%
+
+
+        Rep (No D)         Mixed Pri / R                 Rep (No D)            Mixed Pri / R                    Rep (No D)             Mixed Pri / R
+
+         1,662,676              78,374                     2,113,864               122,547                        1,422,494                  76,634
+          ▼ -9.1 pts         ▼ -0.7 pts
+
+        Dem (No R)         Mixed Pri / D                 Dem (No R)            Mixed Pri / D                   Dem (No R)              Mixed Pri / D
+
+         1,735,883            104,782                      1,379,607                 62,482                       972,814                    89,786
+          ▲ +5.5 pts         ▼ -0.6 pts
+
+        Gen Only           No History                      Gen Only              No History                     Gen Only                No History
+
+         1,212,439            311,466                      1,974,710               565,782                         711,477                 143,200
+          ▲ +2.9 pts         ▲ +1.9 pts
+
+
+   Primary Advantage - D                              Primary Advantage - R                                 Primary Advantage - R
+
+               99,615                                              794,322                                                 436,528
+            ▼ -536,143 vs. 2022
+                                ▲/▼ = change in share vs. the same point of early voting in the 2022 General Election.
+
+
+                                                   Participation Rate
+                     48%                                                         63%                                        41%
+
+                       57%                                                         66%                                            51%
+
+                       55%                                                   55%                                           37%
+                              69%                                                  67%                                           48%
+
+         18%                                                    29%                                            12%
+
+   6%                                                  10%                                                3%
+                     Republican Primary Voter Participation
+Below, is a breakdown of individuals who have voted in at least one previous Republican Primary election since 2020. In
+the graph below, each category of voters is mutually exclusive from the others. For example, a 4R (a voter who has voted
+in all four of the last four Republican Primaries), is only counted in the 4R category.
+
+                        Eligible                                              Participation Rate
+      1Rs           2Rs             3Rs              4Rs
+                                                                               34%
+ 1,370,180       806,738        676,127        718,655
+                                                                                      47%
+                          Voted
+     1Rs          2Rs              3Rs           4Rs                                         58%
+
+  470,618      381,213          391,130        498,089
+                                                                                                     69%
+                  Have NOT Voted
+     1Rs          2Rs              3Rs           4Rs                            ●1Rs ●2Rs ●3Rs ●4Rs
+
+  899,562      425,525          284,997        220,566
+
+                   1,830,650
+
+
+
+
+                     Democratic Primary Voter Participation
+Below, is a breakdown of individuals who have voted in at least one previous Democratic Primary election since 2020. In
+the graph below, each category of voters is mutually exclusive from the others. For example, a 4D (a voter who has voted
+in all four of the last four Democratic Primaries), is only counted in the 4D category.
+
+                Participation Rate                                                          Eligible
+                                                                        1Ds            2Ds             3Ds       4Ds
+                          45%
+                                                                    1,711,572        722,050       450,309     421,757
+                                   59%
+                                                                                             Voted
+                                         68%                           1Ds           2Ds               3Ds       4Ds
+
+                                                                    774,588       427,502        305,898       332,677
+                                               79%
+                                                                                     Have NOT Voted
+                    ●1Ds ●2Ds ●3Ds ●4Ds                                 1Ds           2Ds               3Ds      4Ds
+
+                                                                     936,984       294,548           144,411    89,080
+
+                                                                                      1,465,023
+  R Primary Voter Turnout Rate                                                      R Primary Voter Turnout Rate
+             2026                                                                              2022
+100%                                                                              100%                                                                           97%
+
+                                                                                                                                                                 91%
+
+                                                                                                                                                                 84%
+                                                                                                                                                           81%
+80%                                                                               80%                                                                77%
+                                                                                                                                               72%         72%
+                                                 69%                                                                                                             68%
+                                                                                                                                         68%
+                                                                                                                                                     66%
+                                           63%                                                                                     63%                     62%
+                                     61%                                                                                                       61%
+60%                                              58%                              60%
+                               57%                                                                                     56% 57%           56%         56%
+                                           52%                                                                   52%               51%
+                                     50%                                                                                                       50%
+                         48%                     47%
+                               45%                                                                         45%         45% 46%           46%               46%
+                                           42%                                                                   41%               41%
+                   39% 38%           40%                                                                                                             39%
+40%                                                                               40%                37%
+                               36%               34%                                                       35%         35% 36%                 35%
+                                                                                                                 32%                     31%
+                   30% 29%                 30%
+             28%                     28%                                                       27% 28% 26%                         28%
+                               24%
+                   22%                                                                                                 23% 24%
+             21%                                                                               20% 21%           20%
+                         19%
+20%                                                                               20%                16%
+       15% 15% 15%                                                                       15% 15%
+                                                                                         11%     12%
+       11% 10%
+        8%                                                                                8% 9%
+        5%                                                                                5%
+       1
+
+
+
+
+                                                                11
+
+
+
+
+                                                                                         1
+
+
+
+
+                                                                                                                                                  11
+             2
+
+                   3
+
+                         4
+
+                               5
+
+                                     6
+
+                                           7
+
+                                                 8
+
+                                                       9
+                                                           10
+
+
+
+                                                                     12
+
+
+                                                                              l
+
+
+
+
+                                                                                               2
+
+                                                                                                     3
+
+                                                                                                           4
+
+                                                                                                                 5
+
+                                                                                                                       6
+
+                                                                                                                             7
+
+                                                                                                                                   8
+
+                                                                                                                                         9
+                                                                                                                                             10
+
+
+
+                                                                                                                                                          12
+
+
+                                                                                                                                                            l
+                                                                            na
+
+
+
+
+                                                                                                                                                         na
+                                                                          Fi
+
+
+
+
+                                                                                                                                                       Fi
+                             1R      2R     3R       4R                                                        1R      2R     3R       4R
+
+
+
+  D Primary Voter Turnout Rate                                                      D Primary Voter Turnout Rate
+             2026                                                                              2022
+100%                                                                              100%                                                                           96%
+
+
+                                                                                                                                                           87% 88%
+
+                                                                                                                                                     82%
+                                                 79%                                                                                                             79%
+80%                                                                               80%                                                          77%
+                                           74%                                                                                                             75%
+                                     71%                                                                                                 72%
+                                                 68%                                                                               67%               68%
+                               66%
+                                           62%                                                                               62%               62%         62% 62%
+                                     60%         59%                                                                   59%
+60%                      58%                                                      60%                                                    57%
+                               54%         53%                                                                   54%                                 55%
+                                                                                                                                   52%
+                                     51%
+                   49%                                                                                                                         49%
+                                                                                                           47%               47%
+                         46% 45%                 45%                                                                   45%               44%
+                                                                                                                                                           43%
+                                           40%                                                       39%         40%               40%
+40%          38% 38% 37%             38%                                          40%
+                                                                                                                             36%                     36%
+                                                                                                           34%         34%
+                               33%                                                                                                             31%
+                   30%                                                                         30%               30%
+             29%                                                                                     28%                                 28%
+                         26%
+       23% 22%                                                                                             25%                     24%
+                   21%                                                                                                       21%
+                                                                                         19% 20% 19%                   20%
+20% 17%                                                                           20%                            17%
+             15%                                                                               14%         14%
+       12%                                                                               13%
+                                                                                                     10%
+       8%                                                                                8%    7%
+                                                                                         4%
+       1
+
+
+
+
+                                                                11
+
+
+
+
+                                                                                                                                                  11
+             2
+
+                   3
+
+                         4
+
+                               5
+
+                                     6
+
+                                           7
+
+                                                 8
+
+                                                       9
+                                                           10
+
+
+
+                                                                     12
+
+
+                                                                              l
+
+
+
+
+                                                                                         1
+
+                                                                                               2
+
+                                                                                                     3
+
+                                                                                                           4
+
+                                                                                                                 5
+
+                                                                                                                       6
+
+                                                                                                                             7
+
+                                                                                                                                   8
+
+                                                                                                                                         9
+                                                                                                                                             10
+
+
+
+                                                                                                                                                          12
+
+
+                                                                                                                                                            l
+                                                                            na
+
+
+
+
+                                                                                                                                                         na
+                                                                          Fi
+
+
+
+
+                                                                                                                                                       Fi
+
+
+
+
+                             1D      2D     3D       4D                                                        1D      2D     3D       4D
+                                                    Voters by Gender
+Below, is a breakdown of who has voted this year by gender and compares the data to the same point in the 2024 and
+2022 General Elections.
+
+                   2026                                                2024                                                    2022
+
+
+      46%                                                 46%                                                   47%
+                                  54%                                                  54%                                                   52%
+
+
+
+
+       Female              Male                             Female                 Male                           Female               Male
+
+       2,758,548          2,323,676                        3,346,942            2,867,668                         1,791,457           1,619,287
+          ▲ +1.6 pts       ▼ -1.9 pts
+
+     Gender Advantage - F                               Gender Advantage - F                                    Gender Advantage - F
+
+                 434,872                                           479,274                                                 172,170
+            ▲ +262,702 vs. 2022
+
+                                                        Participation Rate
+              27%                                                      34%                                         19%
+             25%                                                     32%                                           19%
+
+
+
+                                                Voters by Age Group
+Below, is a breakdown of who has voted this year by age group and compares the data to the same point in the 2024 and
+2022 General Elections.
+
+                   2026                                                2024                                                    2022
+                          11%                                                   11%                                               7%
+                                                                                                                                         15%
+       36%                                                 34%
+                                18%                                                   19%                        41%
+
+
+
+
+                                                                                                                                       37%
+                        35%                                                  36%
+
+
+       18 to 29           30 to 44                        18 to 29             30 to 44                           18 to 29            30 to 44
+
+           574,532            893,167                       674,863             1,201,562                           242,705             524,506
+          ▲ +4.2 pts       ▲ +2.2 pts
+
+       45 to 64          65 and Up                         45 to 64            65 and Up                          45 to 64        65 and Up
+
+       1,766,065          1,856,451                        2,253,348            2,089,140                         1,257,453           1,391,641
+           ▼ -2.1 pts      ▼ -4.3 pts
+
+                                                        Participation Rate
+    14%                                                  17%                                               7%
+     18%                                                   24%                                              11%
+           30%                                                   39%                                              22%
+                 43%                                                   51%                                               37%
+
+                                ▲/▼ = change in share vs. the same point of early voting in the 2022 General Election.
+                          Voters by Hispanic / Non-Hispanic
+Below, is a breakdown of who has voted this year by Hispanic and Non-Hispanic voters and compares the data to the
+same point in the 2024 and 2022 General Elections.
+
+                 2026                                           2024                                                 2022
+
+                           18%                                                  17%                                           15%
+
+
+
+
+       82%                                             83%                                                   85%
+
+
+
+
+      Hispanic      Non-Hispanic                     Hispanic          Non-Hispanic                       Hispanic     Non-Hispanic
+
+        939,983         4,165,637                    1,048,126             5,170,866                        527,749         2,888,656
+       ▲ +3.0 pts        ▼ -3.0 pts
+                           ▲/▼ = change in share vs. the same point of early voting in the 2022 General Election.
+
+
+                                              Participation Rate
+
+        21%                                              23%                                              12%
+
+
+
+
+             28%                                                37%                                           22%
+
+
+
+
+                                                     Hispanic / Non-Hispanic
+      Cumulative Totals for
+        Previous General
+           Elections
+  Data for previous elections in this section of the
+    report include all votes for the entirety of the
+election (ballot by mail, early in person, and election
+                          day).
+              Share of Votes Cast by Previous Election History
+Below, is a breakdown of who has voted this year and shows the final turnout totals for previous election cycles.
+
+                                                           2026
+               Share of Vote                                                          Participation Rate
+                    6%                                                                         48%
+                                                                                                     57%
+                                        33%                                                          55%
+         24%
+                                                                                                           69%
+                                                                            18%
+          2%
+                                        2%                       6%
+
+
+                    34%
+
+                Rep (No D)         Mixed Pri / R    Dem (No R)         Mixed Pri / D       Gen Only          No History
+
+               1,662,676             78,374        1,735,883            104,782           1,212,439          311,466
+
+                                                           2022
+               Share of Vote                                                          Participation Rate
+                    7%                                                                                              81%
+                                                                                                                           90%
+                                        35%                                                                   73%
+        31%                                                                                                           86%
+                                                                                         40%
+                                                                      11%
+                                       2%
+               2%
+                             24%
+
+                Rep (No D)         Mixed Pri / R    Dem (No R)         Mixed Pri / D       Gen Only          No History
+
+               2,817,822            135,624        1,915,678            162,290           2,495,980          567,780
+
+                                                           2018
+               Share of Vote                                                          Participation Rate
+                                                                                                                     84%
+                13%
+                                                                                                                          89%
+                                        33%                                                                         82%
+                                                                                                                            92%
+                                                                                                 54%
+         33%
+                                        1%                                  19%
+
+
+                    1%         19%
+
+
+                Rep (No D)         Mixed Pri / R   Dem (No R)         Mixed Pri / D      Gen Only           No History
+
+               2,751,482            98,216         1,583,969          103,474           2,795,595          1,054,029
+      Participation Rate for Voters with Rep Primary History
+Below, is a breakdown of what percentage of voters with previous Republican Primary history have voted compared to
+what percentage voted for the entirety of the 2022 and 2018 General Elections.
+
+                                                      2026
+                                       34%
+                                                      47%
+                                                                  58%
+                                                                               69%
+
+
+                                                      2022
+                                                                              68%
+                                                                                                  84%
+                                                                                                              91%
+                                                                                                                      97%
+
+
+                                                      2018
+                                                                                      75%
+                                                                                                        88%
+                                                                                                              92%
+                                                                                                                      98%
+
+                                                1Rs / 2Rs / 3Rs / 4Rs
+
+     Participation Rate for Voters with Dem Primary History
+Below, is a breakdown of what percentage of voters with previous Democratic Primary history have voted compared to
+what percentage voted for the entirety of the 2022 and 2018 General Elections.
+
+                                                      2026
+                                                    45%
+                                                                    59%
+                                                                              68%
+                                                                                            79%
+
+
+                                                      2022
+                                                                        62%
+                                                                                            79%
+                                                                                                        88%
+                                                                                                                    96%
+
+
+                                                      2018
+                                                                                      76%
+                                                                                                        88%
+                                                                                                           90%
+                                                                                                                    95%
+
+                                                1Ds / 2Ds / 3Ds / 4Ds
+                                          Voters by Gender
+Below, is a breakdown of voters who have voted by gender compared to the gender breakdowns for the entirety of the
+2022 and 2018 General Elections.
+
+                                                      2026
+
+                                                                             27%
+
+
+         46%
+                                        54%                                25%
+
+
+
+
+                                                                                    Gender Advantage - F
+       Female              Male         No Gender
+                                                                                               434,872
+    2,758,548         2,323,676          23,396
+
+                                                      2022
+
+                                                                                         47%
+
+
+         46%
+                                        54%
+                                                                                       45%
+
+
+
+
+                                                                                    Gender Advantage - F
+       Female              Male         No Gender
+                                                                                               619,596
+    4,351,616         3,732,020          11,538
+
+                                                      2018
+                      1%
+
+                                                                                               54%
+
+
+         45%
+                                        54%                                                  51%
+
+
+
+
+                                                                                    Gender Advantage - F
+       Female              Male         No Gender
+                                                                                               757,699
+    4,551,087         3,793,388          42,290
+                                          Voters by Age Group
+Below, is a breakdown of voters who have voted by age group compared to the age breakdowns for the entirety of the
+2022 and 2018 General Elections.
+
+                                                             2026
+                                 11%
+                                                                           14%
+          36%
+                                          18%                                  18%
+
+
+                                                                                       30%
+
+
+                                                                                                     43%
+
+
+                               35%
+
+                              18 to 29          30 to 44        45 to 64               65 and Up
+
+                             574,532        893,167            1,766,065              1,856,451
+
+                                                             2022
+                                 12%
+            29%                                                                      25%
+
+
+                                                                                               38%
+                                          22%
+                                                                                                            54%
+
+
+                                                                                                                   63%
+
+
+                    37%
+
+                              18 to 29          30 to 44         45 to 64                  65 and Up
+
+                            933,242         1,781,045          3,033,763              2,346,883
+
+                                                             2018
+                                  13%
+             26%                                                                             34%
+
+
+                                                                                                      45%
+                                          22%
+                                                                                                                  60%
+
+
+                                                                                                                        66%
+
+
+                   39%
+
+                               18 to 29           30 to 44          45 to 64               65 and Up
+
+                            1,115,193           1,882,824       3,235,241              2,153,496
+                         Voters by Hispanic / Non-Hispanic
+Below, is a breakdown of voters who have voted by Hispanic and Non-Hispanic voters compared to the breakdowns for
+the entirety of the 2022 and 2018 General Elections.
+
+                                                       2026
+                                  18%
+
+
+
+                                                                          21%
+
+
+
+
+                                                                                28%
+               82%
+
+
+         Hispanic              Non-Hispanic
+
+        939,983                 4,165,637
+
+                                                       2022
+                                  18%
+
+
+
+                                                                                      33%
+
+
+
+
+                                                                                                  50%
+               82%
+
+
+          Hispanic               Non-Hispanic
+
+        1,441,361                6,653,813
+
+                                                       2018
+                                  19%
+
+
+
+                                                                                            42%
+
+
+
+
+                                                                                                        55%
+              81%
+
+
+          Hispanic               Non-Hispanic
+
+        1,610,001                6,776,764
+
+                                                Hispanic / Non-Hispanic
+                                      Current Registered Voters
+Below, is a breakdown of all registered voters currently eligible to vote in this election.
+
+
+                                                                              Rep (No D) 18%
+
+                               No History 29%
+                                                                                         Mixed Pri / R 1%
+
+
+
+                                                                                          Dem (No R) 16%
+
+
+
+                                                                                    Mixed Pri / D 1%
+
+
+                                            Gen Only 35%
+
+      Rep (No D)          Mixed Pri / R         Dem (No R)          Mixed Pri / D             Gen Only                   No History
+
+
+   3,433,000             138,700             3,152,848             152,840                6,735,940                5,572,635
+
+
+                                                                             65 and Up                                 18 to 29 21%
+                                                                                  22%
+
+
+
+
+   Male 48%
+                                                   Female
+                                                   52%
+
+
+                                                                                                                           30 to 44
+                                                                                                                           26%
+                                                                          45 to 64 30%
+
+
+
+
+          Female               Male           No Gender                 18 to 29          30 to 44          45 to 64         65 and Up
+
+      10,035,831           9,118,364           31,768                4,018,109       5,048,068           5,817,365         4,296,096
+                                           Notes and Definitions
+Registered Voter Total: The total listed on page one is based on the list of registered voters Ryan Data & Research
+received from the Texas Secretary of State on earlier this month. The number of current registered voters may be lower
+than the number of registered voters reported by the Texas Secretary of State in November 2026.
+Previous Election History: Who votes in a specific election is considered public information. Following each election,
+Ryan Data & Research requests a list of everyone who voted and appends this information to a list of all registered voters.
+Which elections an individual votes in is considered public information. Who a person votes for on the ballot is
+NOT public.
+When analyzing voters based on their previous election history, Ryan Data & Research takes into consideration each
+voter's election history over the previous four election cycles and then classifies each person into the following categories:
+   Rep (No D): Voters who have voted in a previous Republican Primary and have no previous Democratic Primary
+   history.
+   Mixed Pri / R: Voters who have previously voted in both party's primary, but most recently voted in a Republican
+   Primary. For example, if an individual voted in the 2022 Republican Primary but voted in the 2020 Democratic Primary,
+   that individual would be included in this category.
+   Dem (No R): Voters who have voted in a previous Democratic Primary and have no previous Republican Primary
+   history.
+   Mixed Pri / D: Voters who have previously voted in both party's primary, but most recently voted in a Democratic
+   Primary. For example, if an individual voted in the 2022 Democratic Primary but voted in the 2020 Republican Primary,
+   that individual would be included in this category.
+   Gen Only: Voters who have not previously voted in a primary (R or D) but have previous General Election history.
+   No History: Voters who have not previously voted in a primary (R or D) and have no previous General Election history.
+   This group includes people who recently turned 18 and are voting for the first time, people who have recently moved to
+   Texas and are voting in Texas for the first time, but it also may include people who have been registered to vote in the
+   state for and have simply been a dormant voter over the past few elections.
+Please note, voting in a party’s primary does not mean the individual voted for that party’s candidates in a general election.
+In some cases, Democrats vote in the Republican Primary and Republicans vote in the Democratic Primary. However,
+typically, 95%+ of voters participating in a party primary end up voting for that party’s candidates in the general election.
+
+Gender: The Texas Secretary of State maintains information on the gender of all registered voters. However, there are
+some records that don’t include that information. The most likely reason for this is that the individual failed to include that
+information on their voter registration card when it was submitted to the voter registrar. Voters who are not classified as
+male or female are therefore placed into the “unknown” category.
+Republican Primary Voters: As mentioned earlier, each voter’s election history over the previous four election cycles is
+analyzed. If an individual participates in a Republican Primary, they are placed into one of the four categories:
+1Rs: The individual has voted in exactly one of the last four Republican Primaries.
+2Rs: The individual has voted in exactly two of the last four Republican Primaries.
+3Rs: The individual has voted in exactly three of the last four Republican Primaries.
+4Rs: The individual has voted in all four of the last four Republican Primaries.
+
+Democratic Primary Voters: As mentioned earlier, each voter’s election history over the previous four election cycles is
+analyzed. If an individual participates in a Democratic Primary, they are placed into one of the four categories:
+1Ds: The individual has voted in exactly one of the last four Democratic Primaries.
+2Ds: The individual has voted in exactly two of the last four Democratic Primaries.
+3Ds: The individual has voted in exactly three of the last four Democratic Primaries.
+4Ds: The individual has voted in all four of the last four Democratic Primaries.
+
+Discrepancies Between Numbers: This report includes information from several different sources. Most information
+included in this report is based on data from the voter registration rolls. However, the report also includes information from
+the official numbers, as reported by the Texas Secretary of State and from the Texas Legislative Council. There may be
+differences between these numbers for a variety of reasons. The list of registered voters is constantly changing.
+Information for previous elections is based on the voter file Ryan Data & Research used during that election cycle. That
+number may differ from the official total reported by the Texas Secretary of State. Redistricting also could be a reason for a
+discrepancy in numbers. Ryan Data & Research used best efforts to take voter information from the 2016-2020 election
+cycles and assign it to the current district. In some cases, assigning new district information to data from the previous
+election cycles was not possible.
+
+R Primary Vote Advantage: This is the total number of voters who had previous Republican Primary election history
+minus the total number of voters who had previous Democratic Primary election history. As a group, voters without any
+previous primary election history tend to be closer to the center and/or to the left on the political spectrum. A larger margin
+between Republican Primary voters and Democratic Primary voters typically means that a Republican is more likely to win,
+even if non-primary voters skew for the Democrat.
+
+Participation Rates: This calculation is based on the number of voters within a specified group and how many from the
+group actually voted. For example, if there are 100 individuals with previous Republican Primary history and 75 vote in a
+specific election, that group has a 75% participation rate.
+
+Voting Method: The Texas Secretary of State identifies how each person casts their vote. In Texas, there are three
+methods for voting: voting by mail, voting early in person, and voting on Election Day. The voting by mail category includes
+only those individuals who submitted their completed ballot. If an individual requested a ballot and did not return it, they
+are not considered to have voted in the election.
+Voters by Day: The date a person voted is based on the rosters provided by the counties to the Secretary of State.
+Individuals who voted by mail are included in the total based on the day their completed ballot was received AND
+processed by the county clerk. If a voter submitted their completed ballot prior to the beginning of early voting, they are
+included in the day one total. It is possible that some day's voters were reported on a different day. For example, if a
+county did not submit a daily roster of early voters for day two and included those voters on the list they submitted on day
+three, it is possible that all the voters from day two are flagged as having voted on day three and not on day two.
+
