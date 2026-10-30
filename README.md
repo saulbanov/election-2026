@@ -24,3 +24,14 @@ Working files for covering the Texas 2026 elections.
 
 - Source files are named `YYYY-MM-DD_source_description.ext`, where the date is the data's "through" date.
 - Publish only aggregate counts, never individual voter records.
+
+### `results/`
+
+Election-night results files from the Texas Secretary of State's results site (results.texas-election.com), saved exactly as the site's app serves them:
+
+- `results/sources/<electionId>/v<version>/OfficeSummary.json`: statewide totals for every candidate in every race
+- `results/sources/<electionId>/v<version>/County.json`: every county and race, with each candidate's total votes (`V`) and early votes (`EV`; Election Day is the difference), and precincts reporting
+- `results/sources/<electionId>/v<version>/Race.json`, `results/sources/ElectionConstants.json` (the site's election list), `results/sources/MANIFEST.jsonl`
+
+On file: the 2020, 2022 and 2024 general elections (ids 44144, 47009, 49664), the only generals the site lists. The site challenges scripted requests, so `tools/fetch_sos_results.py` reads these files through the local BrowserOS browser, same-origin, and stops if a check appears.
+
