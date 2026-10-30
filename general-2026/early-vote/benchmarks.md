@@ -89,9 +89,12 @@
 | Race | Democrat ~75% if final early margin is... | Republican ~75% if... |
 |---|---|---|
 | U.S. Senate | **About even or better** | R +350,000 or worse |
-| Lt. Governor | D +50,000 or better | R +295,000 or worse |
+| Lt. Governor | D +22,000 or better | R +322,000 or worse |
 | Agriculture | D +160,000 or better | R +185,000 or worse |
-| Governor / AG | D +270,000 or better | **R +72,000 or worse** |
+| Attorney General | D +244,000 or better | R +100,000 or worse |
+| Governor | D +272,000 or better | **R +72,000 or worse** |
+
+Each race's margin is (Senate margin − 0.5) − its candidate adjustment − its drop-off, with the adjustments in [`analysis.md`](analysis.md#down-ballot-statewide-races); ~75% means a margin of at least 1.55 pts either way. *(Corrected Oct. 30: the Lt. Governor row first read D +50,000 / R +295,000, which used an adjustment of −0.75 instead of the analysis's −1. Governor and AG were one row at D +270,000 / R +72,000; AG on its own is D +244,000 / R +100,000.)*
 
 ### Adjustments
 
@@ -110,7 +113,7 @@
   - **Projected landing spot ≈ D +20,000. That clears the Senate's 75% line**, so the model would put Talarico at ~75% before Election Day.
 - **Sunday:** the reliable-voter gap adjustment.
 - **Tuesday afternoon:** the Election Day turnout adjustment, from the marker counties.
-- **Governor, AG and Agriculture can't reach 75% for the Democrat on turnout alone.** Abbott can reach 75% if the early margin ends R +72,000 or worse, or with heavy Republican-county Election Day turnout.
+- **Governor, AG and Agriculture can't reach 75% for the Democrat on turnout alone.** Abbott can reach 75% if the early margin ends R +72,000 or worse, and Middleton at R +100,000 or worse, or with heavy Republican-county Election Day turnout. Goodwin is the one down-ballot Democrat who can: at D +22,000 or better.
 
 ## What it means for the Legislature
 

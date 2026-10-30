@@ -69,7 +69,7 @@ Derived from Ryan's final 2018/2022 totals plus actual results, assuming 95% of 
 - **How the morning estimate held up:** from the 95-county post, I estimated the complete figure at D +38,000 to D +75,000. It landed near the low end, where the missing counties were assumed to split like the Republican-base marker counties.
 - **Young-voter share:** 18.7%, up from 18.0%. Still inside the 17.5–19% band.
 - **Women's lead:** 667,032, up from 582,784.
-- **Model:** if Friday splits like Thursday (Republicans net ~15,000), the early vote ends near D +30,000. The model projects that as Talarico +1.9, vs. +1.8 at the expected D +20,000. The Senate stays above its ~75% line, which needs the early vote to end about even. Goodwin's 75% line (D +50,000) is now unlikely: it needs Democrats to win Friday's vote, after Republicans netted votes on each of Days 9–11.
+- **Model:** if Friday splits like Thursday (Republicans net ~15,000), the early vote ends near D +30,000. The model projects that as Talarico +1.9, vs. +1.8 at the expected D +20,000. The Senate stays above its ~75% line, which needs the early vote to end about even. Goodwin's 75% line is D +22,000 (corrected from D +50,000 on Oct. 30), so a D +30,000 finish would clear it.
 - **The calls below are unchanged.** The benchmarks reserve changes for Saturday's data.
 
 ## Calls (as of Oct. 30)
