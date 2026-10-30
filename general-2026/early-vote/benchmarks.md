@@ -61,6 +61,53 @@
   - If the Abbott–Paxton gap **grows past 4 points**, move the governor call one step toward Abbott.
   - If it **shrinks below 2 points**, move it one step toward Hinojosa.
 
+## When turnout alone gets us to ~75% (added Oct. 30)
+
+*These are pre-count signals only: the final early-vote composition and Election Day turnout, before any votes are counted. They supersede the confidence levels implied by the Saturday table above.*
+
+### The model
+
+**Projected Talarico margin (pts) ≈ 1.6 + 0.9 × (final early-vote primary margin ÷ 100,000)**
+
+- Inputs: non-primary voters lean D +5 to +12 (central ~D +8.5) and number ~4M; Election Day adds ~200,000 net Republican primary voters; 95% primary-voter loyalty; ~10M total votes.
+- **Uncertainty: about ±2.3 pts**, so ~75% confidence means a projected margin of at least ~1.55 pts either way.
+- The uncertainty was narrowed from ±2.7 after reviewing the evidence that the 2024 shift among occasional voters has reversed:
+  - 2025 NJ and VA results
+  - State legislative specials since Jan. 2025 averaging D +5.6, with Democrats keeping ~10 pts more of their prior turnout (Ballotpedia)
+  - 27 Democratic flips to Republicans' 0, including SD-9 (NBC)
+  - Texas Hispanic voters swinging ~11 pts toward Democrats since 2024 (Univision)
+  - In a non-presidential year, Trump's occasional voters tend to stay home
+- A 2022-style break, with non-primary voters slightly Republican, is treated as a **10–15% tail risk**. If it happens, every result shifts ~3.5 pts toward Republicans, and turnout data won't show it.
+- **Overall odds before Saturday's data:** ~70–75% Talarico.
+
+### Thresholds: final early-vote primary margin (Saturday's data)
+
+| Race | Democrat ~75% if final early margin is... | Republican ~75% if... |
+|---|---|---|
+| U.S. Senate | **About even or better** | R +350,000 or worse |
+| Lt. Governor | D +50,000 or better | R +295,000 or worse |
+| Agriculture | D +160,000 or better | R +185,000 or worse |
+| Governor / AG | D +270,000 or better | **R +72,000 or worse** |
+
+### Adjustments
+
+| Signal | When | Effect on projected Talarico margin |
+|---|---|---|
+| Reliable-voter gap **under 150,000** | Sunday | +0.4 pts (≈ +45,000 votes of early margin) |
+| Reliable-voter gap **over 225,000** | Sunday | −0.4 pts |
+| Election Day turnout **light**: big counties under ~30% of their early vote | Tuesday afternoon | +0.5 pts |
+| Election Day turnout **heavy**: over ~40%, especially Republican-base counties | Tuesday afternoon | −0.7 pts |
+
+### Timing
+
+- **Saturday (after 11 a.m., possibly as late as evening):**
+  - The Wednesday data posted at 6:40 p.m. Thursday, so updates can come late.
+  - Confirm the page says data runs **through Friday, Oct. 30**, and check how many counties have reported (247 of 254 through Wednesday). If a big county is missing, wait for Sunday.
+  - **Projected landing spot ≈ D +20,000. That clears the Senate's 75% line**, so the model would put Talarico at ~75% before Election Day.
+- **Sunday:** the reliable-voter gap adjustment.
+- **Tuesday afternoon:** the Election Day turnout adjustment, from the marker counties.
+- **Governor, AG and Agriculture can't reach 75% for the Democrat on turnout alone.** Abbott can reach 75% if the early margin ends R +72,000 or worse, or with heavy Republican-county Election Day turnout.
+
 ## What it means for the Legislature
 
 Applies to any "Lean Talarico" outcome:

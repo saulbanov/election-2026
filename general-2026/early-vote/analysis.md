@@ -60,7 +60,7 @@ Derived from Ryan's final 2018/2022 totals plus actual results, assuming 95% of 
 | Race | Call | Confidence |
 |---|---|---|
 | Turnout | ~10M votes, ~52–53%, at or above 2018's modern midterm record | High |
-| U.S. Senate (Talarico vs. Paxton) | **Lean Talarico**. Central estimate +2; range Paxton +3 to Talarico +6 | Low (~55/45) |
+| U.S. Senate (Talarico vs. Paxton) | **Lean Talarico**. Central estimate +2; range Paxton +3 to Talarico +6 | ~70–75% (revised Oct. 30 from ~55/45; see note below) |
 | Governor (Abbott vs. Hinojosa) | **Lean Abbott**, 0–3 pts. Hinojosa likely wins if Talarico wins by ~3+ | ~60/40 |
 | Texas Senate (19 R – 12 D) | Republicans keep control. Democrats at 13–14; 14 (enough to block bills from the floor) is about a coin flip | Moderate |
 | Texas House (88 R – 62 D) | Republicans keep control. Democrats gain 4–8; a majority only comes into play at Talarico +5 or better | Moderate |
@@ -68,6 +68,15 @@ Derived from Ryan's final 2018/2022 totals plus actual results, assuming 95% of 
 | SD-9 (Rehmet, D) | Democrats hold | Moderate to high |
 | Tarrant County judge (O'Hare vs. Simmons) | Lean Simmons | ~55/45 |
 | Tarrant Commissioners Court (3–2 R) | Flips to 3–2 D if Simmons wins and Democrats hold Precinct 2 | Moderate |
+
+**Confidence revision (Oct. 30):** the ~55/45 figure was an extra hedge that treated a 2022-style break among non-primary voters as roughly even odds. Evidence reviewed since then shows the 2024 shift among occasional voters has largely reversed:
+- 2025 NJ and VA results
+- State legislative specials averaging D +5.6 (Ballotpedia)
+- 27 Democratic flips to Republicans' 0 (NBC)
+- Texas Hispanic voters swinging ~11 pts toward Democrats (Univision)
+- In a non-presidential year, Trump's occasional voters tend to stay home
+
+That makes a 2022-style break a 10–15% tail. The central estimate and the D +5 to +12 lean are unchanged; only the uncertainty narrows, from ±2.7 to ±2.3 pts. The turnout-only 75% thresholds are in [`benchmarks.md`](benchmarks.md).
 
 **Polling context:**
 - Senate: polls are roughly tied.
