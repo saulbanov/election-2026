@@ -1,0 +1,273 @@
+2026 General Election · Statewide · As of October 30, 2026, 3:16 p.m. CT
+
+
+
+
+   2026 General Election
+   Statewide
+   Snapshot through Thursday, October 29, 2026
+   As of October 30, 2026, 3:16 p.m. CT · 249 of 254 counties reporting
+
+Overview
+  REGISTERED                                                VOTES CAST                           TURNOUT
+  19,226,114                                                6,844,915                            35.6%
+  ABSENTEE / MAIL                                           EARLY IN-PERSON                      ELECTION DAY
+  248,230                                                   6,596,685                            0
+
+  Democratic primary history                                                   Republican primary history
+  31.7%                                                                        31.4%
+  2,167,142                                                                    2,149,566
+
+  Mixed primary history                                     General-only history                 No history
+  3.2%                                                      26.8%                                6.9%
+  222,216                                                   1,837,142                            468,849
+
+
+Early voter previous history
+Each bar is one voter group. Bar length is the number of active voters in that group. The solid segment is
+people who have voted. The light segment is people in the same group who have not voted. The percentage is
+that group's turnout.
+
+DEM Only                                                                                                        68.9%
+
+Voters who have only participated in Democratic primaries.
+Voted 2,167,142 · Not voted 979,301 · 3,146,443 active
+
+DEM Mixed                                                                                                       81.8%
+
+Voters who have participated in both primaries, but most recently in a Democratic primary.
+Voted 124,176 · Not voted 27,675 · 151,851 active
+
+GOP Only                                                                                                        62.7%
+
+Voters who have only participated in Republican primaries.
+Voted 2,149,566 · Not voted 1,276,300 · 3,425,866 active
+
+GOP Mixed                                                                                                       71.6%
+
+Voters who have participated in both primaries, but most recently in a Republican primary.
+Voted 98,040 · Not voted 38,942 · 136,982 active
+
+General Only                                                                                                    27.2%
+
+Voters who have only participated in general elections, not primaries.
+Voted 1,837,142 · Not voted 4,911,697 · 6,748,839 active
+
+No History                                                                                                       8.3%
+
+Voters with no recorded voting history.
+Voted 468,849 · Not voted 5,147,284 · 5,616,133 active
+
+
+
+
+Transparency USA · Voter registration data through October 23, 2026.                                                1
+2026 General Election · Statewide · As of October 30, 2026, 3:16 p.m. CT
+
+
+
+
+Early voting
+In-person early voting from October 19 to October 30, 2026.
+
+  EARLY VOTERS                                              PER DAY                            PEAK DAY
+  6,596,682                                                 549,724                            785,836
+                                                                                               Monday, October 19
+
+
+The bar compares that day with the busiest day.
+
+ DATE                                                                       VOTERS   RUNNING TOTAL   PEAK
+
+ Monday, October 19                                                        785,836        785,836
+ Tuesday, October 20                                                       744,658      1,530,494
+ Wednesday, October 21                                                     685,109      2,215,603
+ Thursday, October 22                                                      631,626      2,847,229
+ Friday, October 23                                                        688,186      3,535,415
+ Saturday, October 24                                                      518,811      4,054,226
+ Sunday, October 25                                                        268,479      4,322,705
+ Monday, October 26                                                        583,656      4,906,361
+ Tuesday, October 27                                                       551,360      5,457,721
+ Wednesday, October 28                                                     548,581      6,006,302
+ Thursday, October 29                                                      590,380      6,596,682
+ Friday, October 30                                                             0       6,596,682
+Early in-person counts every early ballot (6,596,685). The table counts ballots dated inside the early-voting window
+(6,596,682).
+
+
+
+
+Transparency USA · Voter registration data through October 23, 2026.                                                   2
+2026 General Election · Statewide · As of October 30, 2026, 3:16 p.m. CT
+
+
+
+
+General history
+Voters grouped by how many of the four general elections from 2018 to 2024 they participated in.
+Each bar is one voter group. Bar length is the number of active voters in that group. The solid segment is
+people who have voted. The light segment is people in the same group who have not voted. The percentage is
+that group's turnout.
+
+  IN THESE GROUPS                                           VOTED          TURNOUT
+  13,401,076                                                6,283,071      46.9%
+
+1 of 4                                                                                             21.2%
+
+Voters who have participated in only one General Election since 2018.
+Voted 665,233 · Not voted 2,477,918 · 3,143,151 active
+
+2 of 4                                                                                             30.3%
+
+Voters who have participated in two General Elections since 2018.
+Voted 756,105 · Not voted 1,743,043 · 2,499,148 active
+
+3 of 4                                                                                             45.4%
+
+Voters who have participated in three General Elections since 2018.
+Voted 1,177,259 · Not voted 1,415,119 · 2,592,378 active
+
+4 of 4                                                                                             71.3%
+
+Voters who have participated in four General Elections since 2018.
+Voted 3,684,474 · Not voted 1,481,925 · 5,166,399 active
+
+
+
+
+Transparency USA · Voter registration data through October 23, 2026.                                     3
+2026 General Election · Statewide · As of October 30, 2026, 3:16 p.m. CT
+
+
+
+
+Party affiliation
+Voters grouped by how many of the four Democratic or Republican primaries from 2020 to 2026 they
+participated in. Both parties use the same scale.
+Each bar is one voter group. Bar length is the number of active voters in that group. The solid segment is
+people who have voted. The light segment is people in the same group who have not voted. The percentage is
+that group's turnout.
+
+Democratic primaries
+  IN THESE GROUPS                                           VOTED          TURNOUT
+  3,435,276                                                 2,389,358      69.6%
+
+1 of 4                                                                                             60.4%
+
+Voters who have participated in only one Democratic primary since 2020.
+Voted 1,104,395 · Not voted 724,731 · 1,829,126 active
+2 of 4                                                                                             73.8%
+
+Voters who have participated in two Democratic primaries since 2020.
+Voted 547,707 · Not voted 194,768 · 742,475 active
+3 of 4                                                                                             81.6%
+
+Voters who have participated in three Democratic primaries since 2020.
+Voted 377,188 · Not voted 85,038 · 462,226 active
+4 of 4                                                                                             89.7%
+
+Voters who have participated in four Democratic primaries since 2020.
+Voted 360,068 · Not voted 41,381 · 401,449 active
+
+Republican primaries
+  IN THESE GROUPS                                           VOTED          TURNOUT
+  3,714,699                                                 2,371,782      63.8%
+
+1 of 4                                                                                             50.4%
+
+Voters who have participated in only one Republican primary since 2020.
+Voted 747,230 · Not voted 736,083 · 1,483,313 active
+2 of 4                                                                                             63.2%
+
+Voters who have participated in two Republican primaries since 2020.
+Voted 527,819 · Not voted 306,945 · 834,764 active
+3 of 4                                                                                             73.3%
+
+Voters who have participated in three Republican primaries since 2020.
+Voted 498,947 · Not voted 181,585 · 680,532 active
+4 of 4                                                                                             83.5%
+
+Voters who have participated in four Republican primaries since 2020.
+Voted 597,786 · Not voted 118,304 · 716,090 active
+
+
+
+
+Transparency USA · Voter registration data through October 23, 2026.                                     4
+2026 General Election · Statewide · As of October 30, 2026, 3:16 p.m. CT
+
+
+
+
+Gender
+Voters grouped by the gender recorded on their registration.
+Each bar is one voter group. Bar length is the number of active voters in that group. The solid segment is
+people who have voted. The light segment is people in the same group who have not voted. The percentage is
+that group's turnout.
+
+  IN THESE GROUPS                                           VOTED          TURNOUT
+  18,620,291                                                6,621,469      35.6%
+
+Female                                                                                            37.3%
+
+Voters who are identified as female in registration records.
+Voted 3,644,453 · Not voted 6,124,581 · 9,769,034 active
+
+Male                                                                                              33.6%
+
+Voters who are identified as male in registration records.
+Voted 2,977,016 · Not voted 5,874,241 · 8,851,257 active
+
+
+
+
+Transparency USA · Voter registration data through October 23, 2026.                                     5
+2026 General Election · Statewide · As of October 30, 2026, 3:16 p.m. CT
+
+
+
+
+Age bands
+Voters grouped by the age recorded on their registration.
+Each bar is one voter group. Bar length is the number of active voters in that group. The solid segment is
+people who have voted. The light segment is people in the same group who have not voted. The percentage is
+that group's turnout.
+
+  IN THESE GROUPS                                           VOTED          TURNOUT
+  19,211,008                                                6,834,820      35.6%
+
+18-24                                                                                             24.1%
+
+Voters between the ages of 18 and 24.
+Voted 526,859 · Not voted 1,660,629 · 2,187,488 active
+
+25-34                                                                                             21.5%
+
+Voters between the ages of 25 and 34.
+Voted 751,348 · Not voted 2,737,151 · 3,488,499 active
+
+35-44                                                                                             27.6%
+
+Voters between the ages of 35 and 44.
+Voted 923,363 · Not voted 2,426,037 · 3,349,400 active
+
+45-54                                                                                             36.3%
+
+Voters between the ages of 45 and 54.
+Voted 1,083,727 · Not voted 1,898,593 · 2,982,320 active
+
+55-64                                                                                             46.5%
+
+Voters between the ages of 55 and 64.
+Voted 1,323,220 · Not voted 1,522,560 · 2,845,780 active
+
+65+                                                                                               51.1%
+
+Voters who are 65 years or older.
+Voted 2,226,303 · Not voted 2,131,218 · 4,357,521 active
+
+
+
+
+Transparency USA · Voter registration data through October 23, 2026.                                     6
+

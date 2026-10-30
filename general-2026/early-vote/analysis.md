@@ -69,6 +69,7 @@ Derived from Ryan's final 2018/2022 totals plus actual results, assuming 95% of 
 
 [`benchmarks.md`](benchmarks.md) sets Friday as a trend check only: a Democratic primary lead above 45,000 nudges toward Talarico, 25,000–45,000 is on trend, and below 25,000 nudges toward Paxton.
 
+- **Update, 3:16 p.m. Oct. 30:** the through-Thursday post was reposted with 249 of 254 counties, and the lead fell to **D +43,712**, under the 45,000 line. The reading does not change: on trend, no nudge.
 - **Lead: D +45,173** (244 of 254 counties, posted 12:52 p.m.). That clears the 45,000 line by 173 votes, which is inside the noise: the 10 missing counties could take it below. **Read: on trend, no nudge.** The expected figure was about 40,000, so Republicans closed slightly slower than forecast.
 - **How the morning estimate held up:** from the 95-county post, I estimated the complete figure at D +38,000 to D +75,000. It landed near the low end, where the missing counties were assumed to split like the Republican-base marker counties.
 - **Young-voter share:** 18.7%, up from 18.0%. Still inside the 17.5–19% band.

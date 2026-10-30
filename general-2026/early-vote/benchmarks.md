@@ -41,7 +41,7 @@
 | 25,000–45,000 | On trend (expected ≈ 40,000). No change |
 | Below 25,000 | Republicans closing faster. Slight nudge toward Paxton |
 
-**Result (read Oct. 30 from the 12:52 p.m. snapshot, 244 of 254 counties):** D +45,173. That's 173 votes over the line, inside the noise of the 10 missing counties. Read: **on trend, no nudge.** Details in [`analysis.md`](analysis.md#friday-trend-check-data-thru-thu-oct-29-read-oct-30). Thresholds above are unchanged.
+**Result (read Oct. 30 from the 12:52 p.m. snapshot, 244 of 254 counties):** D +45,173. That's 173 votes over the line, inside the noise of the 10 missing counties. Read: **on trend, no nudge.** *(Update, 3:16 p.m.: the 249-county repost puts it at D +43,712, inside the 25,000–45,000 band. Same reading.)* Details in [`analysis.md`](analysis.md#friday-trend-check-data-thru-thu-oct-29-read-oct-30). Thresholds above are unchanged.
 
 ## Saturday (data through Friday): the main read
 
