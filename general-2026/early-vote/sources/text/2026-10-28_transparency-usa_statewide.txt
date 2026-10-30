@@ -1,0 +1,174 @@
+Texas Turnout
+Texas Secretary of State voter history, from Transparency USA and JPM Strategies
+
+
+     All elections
+
+
+     All elections
+   GENERAL
+
+  General Election
+  November 3, 2026
+
+EARLY VOTING
+
+SOS EV updated 10/29/2026 6:40 PM
+Updated daily after 11 AM
+
+   Share
+
+
+DISTRICT TYPE
+
+  Statewide
+
+
+
+  247 of 254 counties reporting.
+  The data displayed may include some results through Wednesday, October 28th, but not all
+  counties have reported data.
+
+
+  STATEWIDE SNAPSHOT
+
+  Download statewide snapshot through Wednesday, October 28, 2026
+  As of October 29, 2026, 6:40 p.m. CT
+
+    SHOW 9 EARLIER DAYS
+
+
+
+
+  REGISTERED
+
+  19,224,415
+  VOTES CAST
+6,244,990
+TURNOUT
+
+32.48%
+ABSENTEE / MAIL
+
+237,289
+
+EARLY IN-PERSON
+
+6,007,701
+
+ELECTION DAY
+
+0
+
+Democratic primary history
+32.5%
+2,028,322
+
+
+Republican primary history
+31.9%
+1,994,902
+
+
+Mixed primary history
+3.4%
+210,087
+
+
+General-only history
+25.7%
+1,604,186
+
+
+No history
+6.5%
+407,493
+ Overview      Early Voting   General History   Party Affiliation   Gender Breakdown      Age Bands
+
+
+The shade compares Democratic primary voters with Republican primary voters, among people
+who voted. General-election voters are included in the total, which pulls a county or district
+toward purple. A lead of 20 points or more is dark. A smaller lead is light. Within 5 points is
+purple.
+
+Voters by County
+254 Texas counties.
+     Strong Democratic       Leans Democratic     Close   Leans Republican   Strong Republican
+
+
+
+Voters by SBOE district
+State Board of Education districts, Plan E2106.
+     Strong Democratic      Leans Democratic   Close   Leans Republican   Strong Republican
+
+
+
+Voters by Congress district
+Congress districts, Plan C2333.
+     Strong Democratic       Leans Democratic   Close   Leans Republican   Strong Republican
+
+
+
+Voters by Senate district
+State Senate districts, Plan S2168.
+     Strong Democratic       Leans Democratic   Close   Leans Republican   Strong Republican
+
+
+
+Voters by House district
+State House districts, Plan H2316.
+    Strong Democratic    Leans Democratic    Close    Leans Republican    Strong Republican
+
+
+
+
+Early Voter Previous History Breakdown
+Each bar is one voter group. Bar length is the number of active voters in that group. The solid
+segment is people who have voted; the light segment is people in the same group who have not
+voted. The percentage is that group's turnout.
+     DEM Only                                                                            64.5%
+Voters who have only participated in Democratic primaries.
+  Solid blue = voted (2,028,322)      Light blue = not voted (1,118,014)
+3,146,336 active voters
+
+
+
+     DEM Mixed                                                                           77.8%
+Voters who have participated in both primaries, but most recently in a Democratic primary.
+  Solid blue = voted (118,214)     Light blue = not voted (33,636)
+151,850 active voters
+
+
+
+     GOP Only                                                                            58.2%
+Voters who have only participated in Republican primaries.
+  Solid red = voted (1,994,902)     Light red = not voted (1,430,876)
+3,425,778 active voters
+        GOP Mixed                                                                                67.1%
+  Voters who have participated in both primaries, but most recently in a Republican primary.
+     Solid red = voted (91,873)       Light red = not voted (45,102)
+  136,975 active voters
+
+
+
+        General Only                                                                             23.8%
+  Voters who have only participated in general elections, not primaries.
+     Solid green = voted (1,604,186)        Light green = not voted (5,144,344)
+  6,748,530 active voters
+
+
+
+        No History                                                                                 7.3%
+  Voters with no recorded voting history.
+     Solid gray = voted (407,493)       Light gray = not voted (5,207,453)
+  5,614,946 active voters
+
+
+
+
+A collaboration between Transparency USA and JPM Strategies
+Data is gathered from the Texas Secretary of State or county websites. Not responsible for errors or
+computation.
+
+Voter registration data through October 23, 2026.
+

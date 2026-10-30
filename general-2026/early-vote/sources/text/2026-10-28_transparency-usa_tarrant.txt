@@ -1,0 +1,168 @@
+Texas Turnout
+Texas Secretary of State voter history, from Transparency USA and JPM Strategies
+
+
+     All elections
+
+
+     All elections
+   GENERAL
+
+  General Election
+  November 3, 2026
+
+EARLY VOTING
+
+SOS EV updated 10/29/2026 6:40 PM
+Updated daily after 11 AM
+
+   Share
+
+
+DISTRICT TYPE
+
+  County
+
+COUNTY OR DISTRICT
+
+  Tarrant                                                                                 ×
+
+
+  Yay! The data displayed includes Early Voting through Wednesday, October 28th. 1 of 1
+  counties reporting.
+
+
+
+  REGISTERED
+
+  1,343,513
+  VOTES CAST
+
+  482,044
+  TURNOUT
+
+  35.88%
+ ABSENTEE / MAIL
+
+ 19,284
+
+ EARLY IN-PERSON
+
+ 462,760
+
+ ELECTION DAY
+
+ 0
+
+ Democratic primary history
+ 34.2%
+ 164,892
+
+
+ Republican primary history
+ 29.5%
+ 142,070
+
+
+ Mixed primary history
+ 3.3%
+ 16,003
+
+
+ General-only history
+ 26.5%
+ 127,619
+
+
+ No history
+ 6.5%
+ 31,460
+
+
+
+Overview      Early Voting   General History   Party Affiliation   Gender Breakdown   Age Bands
+
+
+Voter mix
+      Leans Democratic                                                                    D+6
+      Democratic primary voters lead by 6 points
+
+  Among people who voted, Democratic primary voters are DEM Only plus DEM Mixed, and
+  Republican primary voters are GOP Only plus GOP Mixed. General-election voters are
+  included in the total, which pulls the county toward Close (purple). The statewide map
+  uses this same comparison.
+
+  DEMOCRATIC PRIMARY VOTERS
+
+  175,107
+  DEM Only 164,892 and DEM Mixed 10,215
+
+  REPUBLICAN PRIMARY VOTERS
+
+  147,858
+  GOP Only 142,070 and GOP Mixed 5,788
+
+  GENERAL-ELECTION VOTERS
+
+  127,619
+  Voted in general elections only
+
+  The lead is the Republican share minus the Democratic share of those three groups.
+  147,858 minus 175,107, divided by 450,584, rounds to 6 points toward Democrats. 31,460
+  voters with no history are left out.
+
+  A lead of 20 points or more is Strong (dark blue or dark red). A smaller lead is Leans (light
+  blue or light red). Within 5 points is Close (purple).
+
+
+
+Early Voter Previous History Breakdown
+Each bar is one voter group. Bar length is the number of active voters in that group. The solid
+segment is people who have voted; the light segment is people in the same group who have not
+voted. The percentage is that group's turnout.
+     DEM Only                                                                            69.4%
+Voters who have only participated in Democratic primaries.
+  Solid blue = voted (164,892)      Light blue = not voted (72,841)
+237,733 active voters
+
+
+
+     DEM Mixed                                                                           85.6%
+Voters who have participated in both primaries, but most recently in a Democratic primary.
+  Solid blue = voted (10,215)     Light blue = not voted (1,713)
+11,928 active voters
+
+
+
+     GOP Only                                                                            64.5%
+Voters who have only participated in Republican primaries.
+  Solid red = voted (142,070)     Light red = not voted (78,301)
+220,371 active voters
+        GOP Mixed                                                                                72.5%
+  Voters who have participated in both primaries, but most recently in a Republican primary.
+     Solid red = voted (5,788)       Light red = not voted (2,192)
+  7,980 active voters
+
+
+
+        General Only                                                                             25.8%
+  Voters who have only participated in general elections, not primaries.
+     Solid green = voted (127,619)       Light green = not voted (366,387)
+  494,006 active voters
+
+
+
+        No History                                                                                 8.5%
+  Voters with no recorded voting history.
+     Solid gray = voted (31,460)       Light gray = not voted (340,035)
+  371,495 active voters
+
+
+
+
+A collaboration between Transparency USA and JPM Strategies
+Data is gathered from the Texas Secretary of State or county websites. Not responsible for errors or
+computation.
+
+Voter registration data through October 23, 2026.
+
