@@ -1,17 +1,19 @@
 # Texas 2026 General: Early-Vote Analysis
 
-*Compiled Oct. 28–30, 2026, from early-vote data through Wednesday, Oct. 28 (Day 10). Calls are the analyst's judgment from public data, not a model. The Friday/Saturday/Sunday decision thresholds are in [`benchmarks.md`](benchmarks.md).*
+*Compiled Oct. 28–30, 2026, from early-vote data through Wednesday, Oct. 28 (Day 10), plus Thursday, Oct. 29 (Day 11) snapshots at 95 and then 244 of 254 counties. Calls are the analyst's judgment from public data, not a model. The Friday/Saturday/Sunday decision thresholds are in [`benchmarks.md`](benchmarks.md).*
 
 ## Key numbers
 
-| | Day 8 (Ryan, thru Oct. 26) | Day 10 (Transparency USA, thru Oct. 28) |
-|---|---|---|
-| Votes cast | 5,105,620 | 6,245,269 |
-| Turnout | 26.6% | 32.5% |
-| Democratic-primary voters (incl. mixed) | 36.1% | 34.4% |
-| Republican-primary voters (incl. mixed) | 34.1% | 33.4% |
-| No primary history (general-only + no history) | 29.8% | 32.2% |
-| **Primary-voter lead** | **D +99,615** | **D +59,761** |
+| | Day 8 (Ryan, thru Oct. 26) | Day 10 (Transparency USA, thru Oct. 28) | Day 11 (Transparency USA, thru Oct. 29, 244 of 254 counties) |
+|---|---|---|---|
+| Votes cast | 5,105,620 | 6,245,269 | 6,841,284 |
+| Turnout | 26.6% | 32.5% | 35.6% |
+| Democratic-primary voters (incl. mixed) | 36.1% | 34.4% | 33.5% |
+| Republican-primary voters (incl. mixed) | 34.1% | 33.4% | 32.8% |
+| No primary history (general-only + no history) | 29.8% | 32.2% | 33.7% |
+| **Primary-voter lead** | **D +99,615** | **D +59,761*** | **D +45,173** |
+
+\*The Oct. 28 snapshot PDF itself gives D +59,707; the D +59,761 figure came from an earlier version of the web page. The difference doesn't matter for any threshold.
 
 **Same point in past elections (Ryan, Day 8):**
 
@@ -25,14 +27,18 @@
 - **Swing vs. 2022:** about 15 points, or 536,000 ballots. Ryan calls a Democratic lead at this stage "new territory."
 - **Turnout pace:** 149% of 2022's vote count at Day 8. Through Day 10, the early vote already exceeded the entire 2022 early vote (5.5M) and equaled 77% of all 2022 votes (8.1M).
 - **The lead is shrinking:** Republican-primary voters outvoted Democratic ones by about 40,000 on Days 9–10, as expected.
+- **Day 11 continued the shrink, more slowly.** Thursday added 596,015 votes, and Republican-primary voters netted 14,534 of them (2.4% of votes cast, vs. about 3.5% on Days 9–10). Half of Thursday's voters (49%) had no primary history, against 32% of all early voters through Wednesday.
+- **The first Thursday post was misleading.** At 10:37 a.m. Friday, with 95 of 254 counties in, the snapshot showed the lead *growing* to D +81,624. The 149 counties added by 12:52 p.m. split R +17 points (215,478 votes; Republican-primary voters ahead by 36,451), which confirms that the big Democratic counties report first.
 
-## Reserves (who hasn't voted yet, thru Oct. 28)
+## Reserves (who hasn't voted yet)
 
-| | Republican | Democratic | Gap |
-|---|---|---|---|
-| All primary voters not yet voted | 1.48M | 1.15M | R +324,000 |
-| Reliable primary voters (3 or 4 of last 4 primaries) not yet voted | ~359,000 | ~156,000 | **R +~203,000** |
-| Turnout so far among 4-of-4 primary voters | 79.6% | 86.7% | Democrats' most loyal voters are mostly done |
+| | Republican | Democratic | Gap, thru Oct. 28 | Gap, thru Oct. 29 |
+|---|---|---|---|---|
+| All primary voters not yet voted (thru Oct. 29) | 1.32M | 1.01M | R +324,000 | R +310,000 |
+| Reliable primary voters (3 or 4 of last 4 primaries) not yet voted (thru Oct. 29) | 300,679 | 126,496 | R +202,795 | **R +174,183** |
+| Turnout so far among 4-of-4 primary voters (thru Oct. 29) | 83.4% | 89.7% | R 79.6%, D 86.7% | Democrats' most loyal voters are mostly done |
+
+The reliable-voter gap fell about 28,600 on Thursday because reliable Republicans voted: 57,800 of them left the not-yet-voted pool, vs. 29,200 Democrats. It is still inside the 150,000–225,000 band, so it triggers no adjustment in [`benchmarks.md`](benchmarks.md) yet. Another Thursday-sized drop would put it under 150,000 by Sunday, which moves the Senate read up one row.
 
 ## Who's voting (Ryan, Day 8, change in share vs. 2022 same day)
 
@@ -55,6 +61,17 @@ Derived from Ryan's final 2018/2022 totals plus actual results, assuming 95% of 
 
 **Working assumption for 2026:** non-primary voters lean **D +5 to +12**. Evidence: Hispanic polling D +10 to +18 (UH Hobby, Univision, Emerson); a younger, more female electorate; Ryan's note that these voters lean "center and/or left." Counter-evidence: 2022's R +4 and 2024's new-voter surge, which helped Trump. Sensitivity: each 5 points of lean moves the statewide result about 2 points.
 
+## Friday trend check (data thru Thu., Oct. 29; read Oct. 30)
+
+[`benchmarks.md`](benchmarks.md) sets Friday as a trend check only: a Democratic primary lead above 45,000 nudges toward Talarico, 25,000–45,000 is on trend, and below 25,000 nudges toward Paxton.
+
+- **Lead: D +45,173** (244 of 254 counties, posted 12:52 p.m.). That clears the 45,000 line by 173 votes, which is inside the noise: the 10 missing counties could take it below. **Read: on trend, no nudge.** The expected figure was about 40,000, so Republicans closed slightly slower than forecast.
+- **How the morning estimate held up:** from the 95-county post, I estimated the complete figure at D +38,000 to D +75,000. It landed near the low end, where the missing counties were assumed to split like the Republican-base marker counties.
+- **Young-voter share:** 18.7%, up from 18.0%. Still inside the 17.5–19% band.
+- **Women's lead:** 667,032, up from 582,784.
+- **Model:** if Friday splits like Thursday (Republicans net ~15,000), the early vote ends near D +30,000. The model projects that as Talarico +1.9, vs. +1.8 at the expected D +20,000. The Senate stays above its ~75% line, which needs the early vote to end about even. Goodwin's 75% line (D +50,000) is now unlikely: it needs Democrats to win Friday's vote, after Republicans netted votes on each of Days 9–11.
+- **The calls below are unchanged.** The benchmarks reserve changes for Saturday's data.
+
 ## Calls (as of Oct. 30)
 
 | Race | Call | Confidence |
@@ -76,7 +93,7 @@ Derived from Ryan's final 2018/2022 totals plus actual results, assuming 95% of 
 - Texas Hispanic voters swinging ~11 pts toward Democrats (Univision)
 - In a non-presidential year, Trump's occasional voters tend to stay home
 
-That makes a 2022-style break a 10–15% tail. The central estimate and the D +5 to +12 lean are unchanged; only the uncertainty narrows, from ±2.7 to ±2.3 pts. The turnout-only 75% thresholds are in [`benchmarks.md`](benchmarks.md).
+That makes a 2022-style break (non-primary voters R +4, a ~5-point shift toward Republicans) a 10–15% tail. The central estimate and the D +5 to +12 lean are unchanged; only the uncertainty narrows, from ±2.7 to ±2.3 pts. The turnout-only 75% thresholds are in [`benchmarks.md`](benchmarks.md).
 
 **Polling context:**
 - Senate: polls are roughly tied.
@@ -175,7 +192,7 @@ The maps shade by which party's past primary voters lead among early voters. **T
 
 ## Open questions and next data
 
-- Final early-vote figures, posted Saturday and Sunday. Apply [`benchmarks.md`](benchmarks.md).
+- Final early-vote figures, posted Saturday and Sunday. Apply [`benchmarks.md`](benchmarks.md). Before reading them, check the county count: the Friday-morning post covered 95 of 254 counties and overstated the Democratic lead by 36,000 until the rest arrived about two hours later.
 - District-level snapshots for SD-9, SD-5, SD-11; HD-108, 112, 118, 121, 132, 34, 37, 93, 96, 97; TX-9, 15, 23, 32, 35.
 - Whether the other Republican Tarrant commissioner seats are on the 2026 ballot.
 - Post-election: how non-primary voters actually broke, from precinct results plus the voter file.
@@ -185,5 +202,6 @@ The maps shade by which party's past primary voters lead among early voters. **T
 - Ryan Data & Research, *Early Voting Report: Texas, Day 8*: [`sources/reports/`](sources/reports/)
 - County Day 8 party-history table (same data as Ryan): [`sources/reports/`](sources/reports/)
 - Transparency USA / JPM Strategies, statewide, Tarrant and snapshot PDFs plus map screenshots, thru Oct. 28: [`sources/reports/`](sources/reports/), [`sources/maps/`](sources/maps/)
-- TexPolls county early-voting CSV with 2022 same-day turnout: [`sources/data/`](sources/data/)
+- Transparency USA statewide snapshots thru Oct. 29: as of Oct. 30, 10:37 a.m. CT, 95 of 254 counties ([`..._95-counties.pdf`](sources/reports/2026-10-29_transparency-usa_statewide-snapshot_95-counties.pdf)); and as of 12:52 p.m. CT, 244 of 254 counties ([`..._244-counties.pdf`](sources/reports/2026-10-29_transparency-usa_statewide-snapshot_244-counties.pdf))
+- TexPolls county early-voting CSV with 2022 same-day turnout, thru Oct. 26 and thru Oct. 28: [`sources/data/`](sources/data/)
 - Reporting and polling cited: Texas Tribune, KERA, Houston Chronicle, Dallas Morning News, Nexstar, The Texan, CBS Texas, Fox 4, Newsweek, NPR, Emerson, UH Hobby School, Univision, Marist, YouGov, PollCheck, MultiState, Cook Political Report via Nexstar, Wikipedia (2026 Texas Senate election page), 270toWin, FiveThirtyEight.

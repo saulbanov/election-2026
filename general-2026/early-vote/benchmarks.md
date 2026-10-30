@@ -16,11 +16,13 @@
 
 ## The three measures
 
-| Measure | How to compute | Through Wed., Oct. 28 |
-|---|---|---|
-| **Primary margin** | (DEM Only + DEM Mixed) − (GOP Only + GOP Mixed) | **D +59,761** |
-| **Reliable-voter gap** | Not-yet-voted Republicans who voted in 3 or 4 of the last four GOP primaries, minus the same for Democrats ("Party affiliation" page of the snapshot) | **about 203,000** |
-| **Young-voter share** | (Ages 18–24 voted + 25–34 voted) ÷ total votes cast ("Age bands" page) | **18.0%** |
+| Measure | How to compute | Through Wed., Oct. 28 | Through Thu., Oct. 29 (244 of 254 counties) |
+|---|---|---|---|
+| **Primary margin** | (DEM Only + DEM Mixed) − (GOP Only + GOP Mixed) | **D +59,761** | **D +45,173** |
+| **Reliable-voter gap** | Not-yet-voted Republicans who voted in 3 or 4 of the last four GOP primaries, minus the same for Democrats ("Party affiliation" page of the snapshot) | **about 203,000** | **174,183** |
+| **Young-voter share** | (Ages 18–24 voted + 25–34 voted) ÷ total votes cast ("Age bands" page) | **18.0%** | **18.7%** |
+
+**Check the county count before reading any snapshot.** The through-Thursday snapshot first posted at 10:37 a.m. Friday with 95 of 254 counties and showed D +81,624. By 12:52 p.m., with 244 counties, it showed D +45,173. The big Democratic counties report first, so an early post overstates the Democratic lead. Wait for about 240 counties.
 
 ## Assumptions behind the benchmarks
 
@@ -38,6 +40,8 @@
 | Above 45,000 | Republican catch-up slowing. Slight nudge toward Talarico |
 | 25,000–45,000 | On trend (expected ≈ 40,000). No change |
 | Below 25,000 | Republicans closing faster. Slight nudge toward Paxton |
+
+**Result (read Oct. 30 from the 12:52 p.m. snapshot, 244 of 254 counties):** D +45,173. That's 173 votes over the line, inside the noise of the 10 missing counties. Read: **on trend, no nudge.** Details in [`analysis.md`](analysis.md#friday-trend-check-data-thru-thu-oct-29-read-oct-30). Thresholds above are unchanged.
 
 ## Saturday (data through Friday): the main read
 
@@ -77,7 +81,7 @@
   - 27 Democratic flips to Republicans' 0, including SD-9 (NBC)
   - Texas Hispanic voters swinging ~11 pts toward Democrats since 2024 (Univision)
   - In a non-presidential year, Trump's occasional voters tend to stay home
-- A 2022-style break, with non-primary voters slightly Republican, is treated as a **10–15% tail risk**. If it happens, every result shifts ~3.5 pts toward Republicans, and turnout data won't show it.
+- A 2022-style break, with non-primary voters at **R +4** (their 2022 lean), is treated as a **10–15% tail risk**. Against the central D +8.5, that is 12.5 points of lean across ~4M voters, about 500,000 votes, so every result shifts **~5 pts toward Republicans**. If the early vote ends near D +30,000, Talarico +1.9 becomes Paxton +3.1. Turnout data won't show it. *(Corrected Oct. 30: this line first said "slightly Republican" and ~3.5 pts, which matches a near-even lean, not 2022's R +4.)*
 - **Overall odds before Saturday's data:** ~70–75% Talarico.
 
 ### Thresholds: final early-vote primary margin (Saturday's data)
