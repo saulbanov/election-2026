@@ -7,7 +7,7 @@ Working files for covering the Texas 2026 elections.
 | Folder | What's in it |
 |---|---|
 | [`general-2026/early-vote/`](general-2026/early-vote/) | November 3 general election: early-vote analysis, decision benchmarks, and source data |
-| `primaries-2026/` | *Not yet added.* March 3 primaries and May runoffs |
+| [`primaries-2026/`](primaries-2026/) | March 3 primaries and May runoffs: turnout, primary-voter pools, down-ballot results, SD-9 special ([`primaries-notes.md`](primaries-2026/primaries-notes.md)) |
 
 ### `general-2026/early-vote/`
 
