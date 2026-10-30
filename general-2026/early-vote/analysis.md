@@ -83,6 +83,54 @@ Derived from Ryan's final 2018/2022 totals plus actual results, assuming 95% of 
 | +3 to 4 | Hinojosa likely | Real shot at 14 Senate seats |
 | +5 or more | Hinojosa | Texas House control in play |
 
+## Down-ballot statewide races
+
+### Method: baseline plus candidate adjustments
+
+1. **Generic baseline.** How a typical Democrat vs. a typical Republican would do, given the turnout. Our central estimate is Talarico +2. Paxton runs slightly behind a typical Republican, so the baseline is about **D +1.5**. The baseline moves with the scenarios: baseline = Talarico margin − 0.5.
+2. **Candidate adjustment.** Each race's polls compared with the average across races, halved where undecideds are high or the Democrat is little known. Late money and low name recognition pull those voters back toward their usual party.
+3. **Down-ballot drop-off.** Texas ended straight-ticket voting in 2020, so each race must be marked separately. New and occasional voters, who lean Democratic this year, skip lower races more often. The drop-off is an estimate, not a measurement.
+
+| Candidate | Evidence | Adjustment (+ = toward Republican) | Drop-off |
+|---|---|---|---|
+| Abbott (Gov.) | Poll average Abbott +2.5; incumbent; money | +2 | 0 |
+| Paxton (Senate) | Polls roughly tied; scandals | −0.5 | 0 |
+| Patrick (Lt. Gov.) | Goodwin narrowly ahead in Aug. (A&M/Bush School, 48–46) and UT (late Sept.–early Oct.). But Patrick has ~$24M cash vs. Goodwin's ~$643K, has spent ~$14.5M on ads vs. ~$26K, and 56% didn't know Goodwin in July | −1 (polls imply −2.5; halved) | 0.75 |
+| Middleton (AG) | Middleton 39–38 in July (Texas Public Opinion Research, Democrat-run); 41–36 in June (Texas Politics Project); ~18% undecided | +1 | 0.75 |
+| Sheets (Ag.) | No general-election polls. Beat incumbent Sid Miller 52.7–47.3 in the primary. Tucker has filed an eligibility challenge against him | 0 | 1 |
+
+**Democratic margin = baseline − adjustment − drop-off**
+
+### Results
+
+| | Paxton +3 | **Central: Talarico +2** | Talarico +6 |
+|---|---|---|---|
+| Governor | Abbott +5.5 | **Abbott +0.5** | Hinojosa +3.5 |
+| Lt. Governor | Patrick +3 | **Goodwin +2** | Goodwin +6 |
+| Attorney General | Middleton +5 | **Even** | Johnson +4 |
+| Agriculture | Sheets +4.5 | **Tucker +0.5** | Tucker +4.5 |
+
+### Compared with Kalshi (Oct. 30)
+
+| Race | Kalshi | Model (central) |
+|---|---|---|
+| Lt. Gov. | Patrick 72% | Toss-up, slight Goodwin edge |
+| AG | Middleton 74% | Toss-up |
+| Ag. | Sheets 58% | Toss-up |
+
+- Kalshi trading is thin: $26K–$55K per market.
+- **The biggest gap is Lt. Governor.** Even with no Patrick polling penalty (adjustment 0), the model gives Goodwin about +0.75, still a toss-up rather than 72% Patrick.
+
+### Takeaways
+
+- In the central case, all three down-ballot races are toss-ups.
+- Every race moves point-for-point with the baseline, so the Saturday benchmarks and election-night signals apply to all of them.
+- A Talarico +4 night likely means a Democratic sweep of the statewide offices; a Talarico +1 night means Republicans keep most of them.
+- **Weakest assumptions:** the halved candidate adjustments and the drop-off size. Down-ballot polling is thin and months old.
+- **Related:** Middleton's AG run leaves SD-11 open, one of the Republican Senate seats some forecasters rate only "Lean R."
+
+Sources: [Texas Tribune, Lt. Gov.](https://www.texastribune.org/2026/10/15/texas-lieutenant-governor-election-vikki-goodwin-dan-patrick/), [TPR](https://www.tpr.org/government-politics/2026-10-15/outspent-and-unknown-democrat-vikki-goodwin-gives-lt-gov-dan-patrick-his-toughest-race-yet), [Fox 7, AG poll](https://www.fox7austin.com/election/texas-attorney-general-poll-july-2026), [Ballotpedia, Ag. primary](https://ballotpedia.org/Texas_Agriculture_Commissioner_election,_2026_(March_3_Republican_primary)), [Texas Tribune, Ag.](https://www.texastribune.org/2026/10/19/sid-miller-nate-sheets-clayton-tucker-election-2026-agriculture-commissioner/), Kalshi screenshot (`sources/maps/2026-10-30_kalshi_tx-downballot.png`).
+
 ## Tarrant County (thru Oct. 28)
 
 - 482,044 votes, 35.9% turnout. That's already about 82% of Tarrant's entire 2022 vote (~590,000).
