@@ -12,12 +12,12 @@ build_views.py does that.
 Prints one JSON line: {"new": bool, "counties": int, "as_of": str, "path": str, "sha": str}.
 Exit status 0 on success (new or already filed), 2 if the report isn't posted yet.
 """
-import argparse, datetime as dt, hashlib, json, re, subprocess, sys, urllib.error, urllib.request
+import argparse, datetime as dt, hashlib, json, re, shutil, subprocess, sys, urllib.error, urllib.request
 from pathlib import Path
 
 EV = SRC = None  # set from --repo
 URL = 'https://turnout.transparencyusa.org/2026-general/reports/{date}.pdf'
-PDFTOTEXT = '/opt/homebrew/bin/pdftotext'
+PDFTOTEXT = shutil.which('pdftotext') or '/opt/homebrew/bin/pdftotext'  # GitHub runners: poppler-utils
 
 
 def main() -> int:

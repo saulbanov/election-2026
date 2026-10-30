@@ -1,0 +1,57 @@
+# Fetch and file Transparency USA statewide snapshots, then rebuild the views the page reads.
+# Runs every 15 minutes from Oct. 31 to Nov. 4 (Central time); run it by hand any time with "force".
+name: Fetch early-vote snapshots
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: Run outside the Oct. 31 - Nov. 4 window
+        type: boolean
+        default: false
+permissions:
+  contents: write
+concurrency:
+  group: snapshots
+  cancel-in-progress: false
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check the window
+        id: win
+        run: |
+          today=$(TZ=America/Chicago date +%F)
+          if [[ "${{ inputs.force }}" == "true" ]] || [[ ! "$today" < "2026-10-31" && ! "$today" > "2026-11-04" ]]; then
+            echo "go=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Outside the update window ($today); nothing to do."
+          fi
+      - uses: actions/checkout@v4
+        if: steps.win.outputs.go == 'true'
+      - name: Install pdftotext
+        if: steps.win.outputs.go == 'true'
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+      - name: Fetch and file new snapshots; rebuild views
+        if: steps.win.outputs.go == 'true'
+        run: |
+          d=2026-10-29; y=$(TZ=America/Chicago date -d yesterday +%F)
+          while [[ ! "$d" > "$y" ]]; do
+            python3 tools/fetch_snapshot.py --date "$d" || echo "fetch $d exited $? (2 means not posted yet)"
+            d=$(date -d "$d + 1 day" +%F)
+          done
+          python3 tools/build_views.py
+      - name: Commit and push
+        if: steps.win.outputs.go == 'true'
+        run: |
+          if [[ -n "$(git status --porcelain -- general-2026/early-vote)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            thru=$(python3 -c "import json; l=json.load(open('general-2026/early-vote/views/latest.json'))['latest']; print(l['through'], l['counties'], 'counties')")
+            git add general-2026/early-vote/sources general-2026/early-vote/views
+            git commit -m "Scheduled: file new Transparency USA snapshot; views through $thru"
+            git push
+          else
+            echo "No new snapshot."
+          fi
