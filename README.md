@@ -35,3 +35,16 @@ Election-night results files from the Texas Secretary of State's results site (r
 
 On file: the 2020, 2022 and 2024 general elections (ids 44144, 47009, 49664), the only generals the site lists. The site challenges scripted requests, so `tools/fetch_sos_results.py` reads these files through the local BrowserOS browser, same-origin, and stops if a check appears.
 
+
+### `turnout/`
+
+The Secretary of State's turnout app at goelect.txelections.civixapps.com/ivis-evr-ui/evr (a Civix app) serves county turnout as base64-encoded JSON from `/api-ivis-system/api/v1/getFile`. Read through BrowserOS on 2026-10-31, same-origin, it showed no check.
+
+- `?type=EVR_ELECTION`: the election list. The 2026 November general is election 53815, with early-voting dates 10/14 through 10/30.
+- `?type=EVR_EARLYVOTING&electionId=53815&electionDate=MM/DD/YYYY`: for each of the 254 counties, registered voters, in-person votes that day, and in-person and mail totals for the election so far. On Oct. 31 the 10/30 file was still partial (18,053 votes from 83 counties, `date_updated` 2026-10-30).
+- `?type=EVR_ELECTIONDAYTURNOUT&electionId=…&electionDate=…`: Election Day in-person votes by county, in the same shape. The March 3, 2026 primary's file is final (`date_updated` 2026-06-10). Whether this file updates during Election Day is unconfirmed until Nov. 3.
+- `?type=EVR_STATEWIDE_ELECTIONDAY`: a zipped CSV of the statewide report.
+
+These are turnout counts only, with no primary history; the breakdown by primary history still comes from Transparency USA.
+
+`tools/fetch_sos_turnout.py` saves the Friday early-vote file and the Election Day file exactly as served, only when their bytes change, to `turnout/sources/53815/<early|election-day>/<date>/<fetched UTC>.json`, with a row in `turnout/sources/MANIFEST.jsonl`. The scheduled Mac job runs it at most every 15 minutes, Oct. 31 to Nov. 4, so the folder shows each version the state posted and when it first appeared. On Oct. 31 the Election Day file already held 1,535 votes in 55 counties, with the same internal day id as Friday's early file; what that means is unexplained.
