@@ -1,6 +1,6 @@
 {
  "by": "election-2026/tools/build_views.py",
- "built": "2026-10-31T18:06:37Z",
+ "built": "2026-10-31T19:37:11Z",
  "complete_threshold": 240,
  "snapshots": [
   {
@@ -1443,6 +1443,212 @@
     "path": "general-2026/early-vote/sources/reports/2026-10-30_transparency-usa_statewide-snapshot_229-counties.pdf",
     "sha256": "9798bedcd5aff60d7e83cbe7083590c04cc887410ceb562e5161038b8e4db296",
     "text": "general-2026/early-vote/sources/text/2026-10-30_transparency-usa_statewide-snapshot_229-counties.txt"
+   }
+  },
+  {
+   "through": "2026-10-30",
+   "as_of": "October 31, 2026, 2:15 p.m. CT",
+   "counties": 229,
+   "registered": 19228555,
+   "votes": 7703269,
+   "turnout_pct": 40.06,
+   "mail": 257732,
+   "early_in_person": 7445537,
+   "election_day": 0,
+   "groups": {
+    "history:DEM Only": {
+     "voted": 2345494,
+     "not_voted": 801076,
+     "active": 3146570
+    },
+    "history:DEM Mixed": {
+     "voted": 131052,
+     "not_voted": 20802,
+     "active": 151854
+    },
+    "history:GOP Only": {
+     "voted": 2345518,
+     "not_voted": 1080452,
+     "active": 3425970
+    },
+    "history:GOP Mixed": {
+     "voted": 105230,
+     "not_voted": 31758,
+     "active": 136988
+    },
+    "history:General Only": {
+     "voted": 2208292,
+     "not_voted": 4540954,
+     "active": 6749246
+    },
+    "history:No History": {
+     "voted": 567683,
+     "not_voted": 5050244,
+     "active": 5617927
+    },
+    "general:1 of 4": {
+     "voted": 794477,
+     "not_voted": 2348821,
+     "active": 3143298
+    },
+    "general:2 of 4": {
+     "voted": 890295,
+     "not_voted": 1608977,
+     "active": 2499272
+    },
+    "general:3 of 4": {
+     "voted": 1354253,
+     "not_voted": 1238286,
+     "active": 2592539
+    },
+    "general:4 of 4": {
+     "voted": 3991827,
+     "not_voted": 1174785,
+     "active": 5166612
+    },
+    "dem:1 of 4": {
+     "voted": 1223727,
+     "not_voted": 605491,
+     "active": 1829218
+    },
+    "dem:2 of 4": {
+     "voted": 588376,
+     "not_voted": 154126,
+     "active": 742502
+    },
+    "dem:3 of 4": {
+     "voted": 397464,
+     "not_voted": 64779,
+     "active": 462243
+    },
+    "dem:4 of 4": {
+     "voted": 372209,
+     "not_voted": 29240,
+     "active": 401449
+    },
+    "gop:1 of 4": {
+     "voted": 843367,
+     "not_voted": 640009,
+     "active": 1483376
+    },
+    "gop:2 of 4": {
+     "voted": 579308,
+     "not_voted": 255487,
+     "active": 834795
+    },
+    "gop:3 of 4": {
+     "voted": 534301,
+     "not_voted": 146249,
+     "active": 680550
+    },
+    "gop:4 of 4": {
+     "voted": 624824,
+     "not_voted": 91267,
+     "active": 716091
+    },
+    "gender:Female": {
+     "voted": 4106279,
+     "not_voted": 5662755,
+     "active": 9769034
+    },
+    "gender:Male": {
+     "voted": 3344583,
+     "not_voted": 5506674,
+     "active": 8851257
+    },
+    "age:18-24": {
+     "voted": 622419,
+     "not_voted": 1565069,
+     "active": 2187488
+    },
+    "age:25-34": {
+     "voted": 900172,
+     "not_voted": 2588327,
+     "active": 3488499
+    },
+    "age:35-44": {
+     "voted": 1096400,
+     "not_voted": 2253000,
+     "active": 3349400
+    },
+    "age:45-54": {
+     "voted": 1250328,
+     "not_voted": 1731992,
+     "active": 2982320
+    },
+    "age:55-64": {
+     "voted": 1463110,
+     "not_voted": 1382670,
+     "active": 2845780
+    }
+   },
+   "dem_primary": 2476546,
+   "gop_primary": 2450748,
+   "general_only": 2208292,
+   "no_history": 567683,
+   "no_primary": 2775975,
+   "primary_margin": 25798,
+   "reliable_gop_not_voted": 237516,
+   "reliable_dem_not_voted": 94019,
+   "reliable_gap": 143497,
+   "young_voted": 1522591,
+   "young_share": 19.77,
+   "women_lead": 761696,
+   "daily": [
+    {
+     "day": "Monday, October 19",
+     "voters": 785839
+    },
+    {
+     "day": "Tuesday, October 20",
+     "voters": 744669
+    },
+    {
+     "day": "Wednesday, October 21",
+     "voters": 685114
+    },
+    {
+     "day": "Thursday, October 22",
+     "voters": 631628
+    },
+    {
+     "day": "Friday, October 23",
+     "voters": 690459
+    },
+    {
+     "day": "Saturday, October 24",
+     "voters": 519453
+    },
+    {
+     "day": "Sunday, October 25",
+     "voters": 268512
+    },
+    {
+     "day": "Monday, October 26",
+     "voters": 584654
+    },
+    {
+     "day": "Tuesday, October 27",
+     "voters": 551373
+    },
+    {
+     "day": "Wednesday, October 28",
+     "voters": 549375
+    },
+    {
+     "day": "Thursday, October 29",
+     "voters": 589982
+    },
+    {
+     "day": "Friday, October 30",
+     "voters": 844476
+    }
+   ],
+   "complete": false,
+   "source": {
+    "path": "general-2026/early-vote/sources/reports/2026-10-30_transparency-usa_statewide-snapshot_229-counties_4d2275cd.pdf",
+    "sha256": "4d2275cd27f7c4e1db201c5d2e2406c68ee77204e6277b04742856b941112c2d",
+    "text": "general-2026/early-vote/sources/text/2026-10-30_transparency-usa_statewide-snapshot_229-counties_4d2275cd.txt"
    }
   }
  ]
