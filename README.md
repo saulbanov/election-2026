@@ -54,3 +54,15 @@ The Secretary of State's turnout app at goelect.txelections.civixapps.com/ivis-e
 These are turnout counts only, with no primary history; the breakdown by primary history still comes from Transparency USA.
 
 `tools/fetch_sos_turnout.py` saves the Friday early-vote file and the Election Day file exactly as served, only when their bytes change, to `turnout/sources/53815/<early|election-day>/<date>/<fetched UTC>.json`, with a row in `turnout/sources/MANIFEST.jsonl`. The scheduled Mac job runs it at most every 15 minutes, Oct. 31 to Nov. 4, so the folder shows each version the state posted and when it first appeared. On Oct. 31 the Election Day file already held 1,535 votes in 55 counties, with the same internal day id as Friday's early file; what that means is unexplained.
+
+### `turnout/county/` (Election Day check-ins)
+
+A survey of 14 county election sites on Nov. 1, 2026 looked for Election Day turnout posted while polls are open:
+
+- **Travis:** yes. Its ElectionLink tracker (updates.electionlink.net/widgets/travistx/2026-11-03/) posts hourly countywide check-ins and a per-precinct table with an Election Day column, regenerated every few minutes. A Wayback capture shows the March 3, 2026 file "AS OF TUE MAR 3 12:32 PM" with 37,795 check-ins. Plain requests work.
+- **Dallas:** likely. On March 3, 2026 it posted per-vote-center check-in PDFs about hourly from 3 p.m. Its site answers scripts with an AWS WAF challenge, so it is read only through BrowserOS; the files it links on the Nov. 3 results page are saved as they appear.
+- **Tarrant:** possible. A per-location check-in PDF sits at a fixed address (a placeholder now); no evidence it updates during the day.
+- **Harris, Bexar, Collin:** daytime figures only in press conferences and news blogs.
+- **Denton, Fort Bend, Williamson, El Paso, Hidalgo, Montgomery, Comal, Midland:** none on their sites. Williamson tweeted running totals in 2016 and 2018; El Paso says it posts updates on Facebook and X. Neither is read here. The Republican marker counties in the page's tells (Montgomery, Comal, Midland) publish nothing during the day.
+
+`tools/fetch_county_turnout.py` saves those pages as served, only when they change, with a row in `turnout/county/MANIFEST.jsonl`. The Mac job runs it every 3 minutes from 6 a.m. Nov. 3 to noon Nov. 4. Nothing reads the counts yet.
