@@ -10,9 +10,9 @@ and mail votes first, largest first (25%, 50%, 75%, 90%, then all of the early v
 votes come in, smallest counties first (25%, 50%, 75%, 100%). Each stage is a County.json of the same
 shape, read by the same function the live view uses. Writes nothing.
 
-The early-vote mix is Ryan Data & Research's day-8 mix for that year (general-2026/early-vote/sources/
-text/2026-10-26_ryan-data-research_day8-report.txt, "2026 vs. 2024 / 2022 Comparison"), standing in for
-the final early mix, as in the page's 2024 estimate.
+The early-vote mix is Ryan Data & Research's day-12 mix for that year, close to the final early vote
+(general-2026/early-vote/sources/text/2026-11-01_ryan-data-research_day12-report.txt, "2026 vs. 2024 /
+2022 Comparison"). The day-8 mix used before gave leans 5 to 10 points too Democratic.
 """
 from __future__ import annotations
 
@@ -26,9 +26,9 @@ from build_results_view import OFFICES, read, tally  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 CASES = {
-    '2024': {'id': '49664', 'race': 'U.S. Senate', 'mix': {'d': 1379607 + 62482, 'r': 2113864 + 122547, 'np': 1974710 + 565782}, 'known': 'about D +5.4 (page estimate)',
+    '2024': {'id': '49664', 'race': 'U.S. Senate', 'mix': {'d': 1830402 + 78096, 'r': 2696315 + 156979, 'np': 3255614 + 1023831}, 'known': 'about D +0.2 (day-12 mix; the page uses D +5.4 from the day-8 mix)',
              'baseline': ('47009', 'Governor')},
-    '2022': {'id': '47009', 'race': 'Governor', 'mix': {'d': 972814 + 89786, 'r': 1422494 + 76634, 'np': 711477 + 143200}, 'known': 'about R +4 (page assumption)',
+    '2022': {'id': '47009', 'race': 'Governor', 'mix': {'d': 1496065 + 131463, 'r': 2084493 + 108168, 'np': 1395886 + 291100}, 'known': 'about D +2.3 among early voters (day-12 mix); R +3.1 for the whole electorate',
              'baseline': ('44144', 'U.S. Senate')},
 }
 
