@@ -18,6 +18,7 @@ from pathlib import Path
 
 EV = SRC = VIEWS = None  # set from --repo
 COMPLETE = 240  # counties; below this a post overstates the big Democratic counties
+EARLY_LAST = '2026-10-30'  # last day of early voting
 BY = 'election-2026/tools/build_views.py'
 
 N = r'([\d,]+)'
@@ -93,6 +94,10 @@ def main() -> int:
         snaps.append(s)
     # oldest first: by through date, then by when it was posted (county count rises through the day)
     snaps.sort(key=lambda s: (s['through'], s['counties']))
+    # Early voting ended Oct. 30. A later report carries Election Day votes, so it stays out of the early-vote
+    # views (the model adds Election Day separately) and is kept on its own under 'after_early'.
+    after = [s for s in snaps if s['through'] > EARLY_LAST or s.get('election_day')]
+    snaps = [s for s in snaps if s not in after]
     complete = [s for s in snaps if s['complete']]
     latest = complete[-1] if complete else None
     # 'previous' is the last complete post from an earlier day, so changes read day over day
@@ -109,7 +114,8 @@ def main() -> int:
                 return
         f.write_text(json.dumps(body, indent=1) + '\n')
     write('series.json', {**stamp, 'snapshots': snaps})
-    write('latest.json', {**stamp, 'latest': latest, 'previous': earlier[-1] if earlier else None, 'partial': partial})
+    write('latest.json', {**stamp, 'latest': latest, 'previous': earlier[-1] if earlier else None, 'partial': partial,
+                          'after_early': after[-1] if after else None})
     print(f'{len(snaps)} snapshots, {len(complete)} complete; latest complete through {latest["through"] if latest else None} '
           f'({latest["counties"] if latest else 0} counties); partial newer: {bool(partial)}')
     return 0
