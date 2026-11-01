@@ -36,6 +36,12 @@ Election-night results files from the Texas Secretary of State's results site (r
 On file: the 2020, 2022 and 2024 general elections (ids 44144, 47009, 49664), the only generals the site lists. The site challenges scripted requests, so `tools/fetch_sos_results.py` reads these files through the local BrowserOS browser, same-origin, and stops if a check appears.
 
 
+### `results/views/live.json` (election night)
+
+`tools/build_results_view.py` reads the newest saved 2026 returns and writes the view the page mirrors: for the Senate and each statewide race, the early and all-vote margins, Election Day as the difference, and precincts reporting. While counties are still reporting it projects the full early vote (each county out at its 2024 Senate early margin plus the swing in counties that are in) and the no-primary lean that implies: (early margin − 0.9 × (D primary share − R primary share)) ÷ no-primary share, using Transparency USA's final early mix. The lean is marked final once every county's early vote is in. On Nov. 3 the Mac job fetches returns and rebuilds the view every 3 minutes from 6:50 p.m.
+
+`tools/replay_results.py 2024` (or `2022`) replays a past night in stages from its final results, big counties' early votes first. In the 2024 replay, with 28% of the early vote in, the projection gave Cruz +9.3 for the full early vote (actual: Cruz +9.31). A partial early margin alone misleads: with three-quarters in, Allred led it by 7.8. The 2022 replay's lean is off (D +12 against a known R +4) because only a day-8 early mix is on file for 2022; its projection missed the full early margin by up to 2.6 points.
+
 ### `turnout/`
 
 The Secretary of State's turnout app at goelect.txelections.civixapps.com/ivis-evr-ui/evr (a Civix app) serves county turnout as base64-encoded JSON from `/api-ivis-system/api/v1/getFile`. Read through BrowserOS on 2026-10-31, same-origin, it showed no check.
