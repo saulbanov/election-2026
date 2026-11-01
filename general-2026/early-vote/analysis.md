@@ -65,6 +65,19 @@ Derived from Ryan's final 2018/2022 totals plus actual results, assuming 95% of 
 
 **Working assumption for 2026:** non-primary voters lean **D +5 to +12**. Evidence: Hispanic polling D +10 to +18 (UH Hobby, Univision, Emerson); a younger, more female electorate; Ryan's note that these voters lean "center and/or left." Counter-evidence: 2022's R +4 and 2024's new-voter surge, which helped Trump. Sensitivity: each 5 points of lean moves the statewide result about 2 points.
 
+## Ryan Day 12: early voting complete but for a few counties (read Nov. 1)
+
+Source: Ryan Data & Research, Day 12 report and email of Nov. 1, 2026 (`sources/reports/2026-11-01_ryan-data-research_day12-report.pdf`, `..._day12-by-county.pdf`, `..._day12-email.txt`). Ryan writes that "only a handful of counties" are missing.
+
+- **Early votes: 7,725,552**, 40.3% of 19,185,963 registered voters, up 40% on 2022 at the same point. Ryan: "We also were only 400k votes away from surpassing the total for 2022."
+- **Democratic primary voters lead by 25,836** (Dem, no R 2,354,725 + mixed, last D 132,322, against Rep, no D 2,354,516 + mixed, last R 106,695). At day 12 in 2022 Republicans led by 565,133; in 2024, by 944,796.
+- **No primary history: 2,777,294** (general-only 2,206,553, no history 570,741), 36% of early voters.
+- **Agreement with Transparency USA:** its 229-county Friday post (Oct. 31, 6:53 p.m.) has 7,706,944 votes, a D +24,915 lead and 2,777,663 with no primary history. Two independent voter-file matches land within about 1,000 votes on the lead.
+- **Final turnout:** Ryan puts the early share of all votes at 74% to 80% (2022: 74%, 2018: 80%), which gives 9.66M to 10.44M votes in all and 2M to 3M on Election Day. The model's total of 10M sits inside that range.
+- **Who is left:** among the voters Ryan counts as most likely to turn out who haven't voted, Republican-primary groups outnumber Democratic ones by 289,717 (2026 primary voters, plus 2018-and-2022 and 2022-only general voters with primary history). The model assumes Election Day adds a net 200,000 Republican primary voters, about 70% of that pool. Ryan's measure differs from Transparency USA's reliable-voter gap (143,123 at 229 counties), which is the one the pre-set rule uses.
+- **Effect on the model if Ryan's lead were the final early figure:** 25,836 against the 30,000 estimate costs Talarico about 0.04 points. The page still waits for Transparency USA's complete Friday post, as the rule says.
+- **Demographics (Ryan):** women 55% of early voters, a 775,000 edge over men; 18–29s 13% (997,396 votes), up from 12% in 2018; 65+ 32% (2,487,646).
+
 ## Friday trend check (data thru Thu., Oct. 29; read Oct. 30)
 
 [`benchmarks.md`](benchmarks.md) sets Friday as a trend check only: a Democratic primary lead above 45,000 nudges toward Talarico, 25,000–45,000 is on trend, and below 25,000 nudges toward Paxton.
