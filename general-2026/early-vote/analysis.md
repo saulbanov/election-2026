@@ -65,6 +65,16 @@ Derived from Ryan's final 2018/2022 totals plus actual results, assuming 95% of 
 
 **Working assumption for 2026:** non-primary voters lean **D +5 to +12**. Evidence: Hispanic polling D +10 to +18 (UH Hobby, Univision, Emerson); a younger, more female electorate; Ryan's note that these voters lean "center and/or left." Counter-evidence: 2022's R +4 and 2024's new-voter surge, which helped Trump. Sensitivity: each 5 points of lean moves the statewide result about 2 points.
 
+## Polls against the model (read Nov. 2)
+
+Source: a survey of 28 public Texas polls released or fielded since Oct. 15 (`general-2026/polls/2026-11-02_poll-survey_raw.md`, verbatim pulls with source URLs; the pollster's own release where it could be fetched).
+
+- **Paxton penalty raised from 0.5 to 4 points (Saul, Nov. 2).** The final NYT/Siena poll (Siena release, Nov. 1) has Talarico 50–43 and Hinojosa 48–47. Every published average shows the same gap: Senate Talarico +2.5 to +4.1, governor Abbott +1.5 to +2.5, so Talarico runs 5 to 6 points ahead of Hinojosa, of which Abbott's own edge is about 2. The model now has the Senate at Talarico +3.3.
+- **With the penalty, the model sits inside the poll ranges** for governor (Abbott +2.7), attorney general (Middleton +2.5; TexPolls average R +3.0), agriculture (Sheets +1.7; recent polls R +1 to +6) and Railroad Commission (French +1.7; TexPolls average R +1.2).
+- **Lieutenant governor is the exception.** The model gives Goodwin a 1-point edge over a generic Democrat (from earlier polling) and has Patrick +0.5. Recent polls have Patrick running 1 to 3 points ahead of Abbott's margin: TSU Oct. 21–25 Patrick +4 (Abbott +3), UH Hobby Oct. 10–14 Patrick +5 (Abbott +3), On Point Nov. 1 Patrick +8.1 (Abbott +4.6); TexPolls average R +2.2. Not changed.
+- **Republican-leaning pollsters show a tie or a Paxton edge:** Trafalgar Oct. 31–Nov. 1 Paxton 48.1–47.5, Quantus Oct. 26–28 Paxton 48.7–47.6, Rasmussen Oct. 20–21 tied 45–45. The Times reported (via Breitbart, Oct. 31) that Talarico's internal polling is "far closer" than public surveys.
+- **Generic ballots lean Republican:** Texas Legislature R +2 (TPOR Oct. 15–18), U.S. House R +3 (Univision/YouGov Oct. 13–21).
+
 ## Ryan Day 12: early voting complete but for a few counties (read Nov. 1)
 
 Source: Ryan Data & Research, Day 12 report and email of Nov. 1, 2026 (`sources/reports/2026-11-01_ryan-data-research_day12-report.pdf`, `..._day12-by-county.pdf`, `..._day12-email.txt`). Ryan writes that "only a handful of counties" are missing.
