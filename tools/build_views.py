@@ -17,7 +17,7 @@ import datetime as dt, json, re, sys
 from pathlib import Path
 
 EV = SRC = VIEWS = None  # set from --repo
-COMPLETE = 240  # counties; below this a post overstates the big Democratic counties
+COMPLETE = 230  # counties; below this a post overstates the big Democratic counties (240 -> 230 on Nov. 3: the final 234-county report held 99.99% of the early vote)
 EARLY_LAST = '2026-10-30'  # last day of early voting
 BY = 'election-2026/tools/build_views.py'
 
