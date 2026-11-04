@@ -145,10 +145,17 @@ def read(county: dict, composition: dict, expected: dict | None = None, baseline
 def read_html(text: str) -> dict:
     """The view's body from the state's 2026 results page (statewide totals only: no county or early split)."""
     import re, html as H
-    races = []
+    races, house = [], []
     blocks = re.findall(r'<div class="election">(.*?)</div><div class="polling">Polling Locations Reporting:\s*([\d.]+)%</div><div><table class="election">(.*?)</table>', text, re.S)
     for name, polling, table in blocks:
         name = H.unescape(name)
+        hd = re.fullmatch(r'STATE REPRESENTATIVE DISTRICT (\d+)', name.strip())
+        if hd:
+            # each Texas House race: D and R votes, with None for a party that has no nominee on the ballot
+            v = {p.strip(): int(re.sub(r'[^\d]', '', x) or 0) for p, c, x in re.findall(r'<td class="party">(.*?)</td><td class="candidate">(.*?)</td><td class="ballot"(?:\s*/>|>(.*?)</td>)', table, re.S)}
+            house.append({'id': 'HD-' + hd.group(1), 'd': v.get('DEMOCRATIC'), 'r': v.get('REPUBLICAN'),
+                          'total': sum(v.values()), 'polling_reporting_pct': float(polling)})
+            continue
         label = next((l for l, test in OFFICES if test(name)), None)
         if not label or any(r['race'] == label for r in races):
             continue
@@ -161,7 +168,7 @@ def read_html(text: str) -> dict:
         races.append({'race': label, 'd_name': d_name, 'r_name': r_name, 'early': None, 'election_day': None,
                       'all': {'d': d, 'r': r, 'total': total, 'margin': pct(d, r, total)},
                       'polling_reporting_pct': float(polling)})
-    return {'races': races}
+    return {'races': races, 'house': house}
 
 
 def newest_turnout(repo: Path) -> tuple[dict | None, str | None]:
