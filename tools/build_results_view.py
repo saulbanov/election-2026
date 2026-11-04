@@ -142,6 +142,28 @@ def read(county: dict, composition: dict, expected: dict | None = None, baseline
             'coverage_for_lean': COVERAGE_FOR_LEAN, 'races': races}
 
 
+def read_html(text: str) -> dict:
+    """The view's body from the state's 2026 results page (statewide totals only: no county or early split)."""
+    import re, html as H
+    races = []
+    blocks = re.findall(r'<div class="election">(.*?)</div><div class="polling">Polling Locations Reporting:\s*([\d.]+)%</div><div><table class="election">(.*?)</table>', text, re.S)
+    for name, polling, table in blocks:
+        name = H.unescape(name)
+        label = next((l for l, test in OFFICES if test(name)), None)
+        if not label or any(r['race'] == label for r in races):
+            continue
+        d = r = total = 0; d_name = r_name = None
+        for party, cand, votes in re.findall(r'<td class="party">(.*?)</td><td class="candidate">(.*?)</td><td class="ballot"(?:\s*/>|>(.*?)</td>)', table, re.S):
+            v = int(re.sub(r'[^\d]', '', votes) or 0)
+            total += v
+            if party.strip() == 'DEMOCRATIC': d += v; d_name = d_name or H.unescape(cand).strip()
+            elif party.strip() == 'REPUBLICAN': r += v; r_name = r_name or H.unescape(cand).strip()
+        races.append({'race': label, 'd_name': d_name, 'r_name': r_name, 'early': None, 'election_day': None,
+                      'all': {'d': d, 'r': r, 'total': total, 'margin': pct(d, r, total)},
+                      'polling_reporting_pct': float(polling)})
+    return {'races': races}
+
+
 def newest_turnout(repo: Path) -> tuple[dict | None, str | None]:
     """Each county's early votes (in person plus mail) from the newest saved 10/30 state turnout file."""
     files = sorted(glob.glob(str(repo / 'turnout' / 'sources' / '*' / 'early' / '2026-10-30' / '*.json')))
@@ -169,6 +191,29 @@ def main() -> int:
     consts = json.loads((src / 'ElectionConstants.json').read_text()) if (src / 'ElectionConstants.json').exists() else {}
     listed = {eid: {**info, 'Y': y, 'T': t} for y, types in consts.get('electionInfo', {}).items() for t, els in types.items() for eid, info in els.items()}
     eid = a.election or next((e for e, i in listed.items() if i['Y'] == '2026' and i['T'] == 'G'), None)
+    pages = sorted(glob.glob(str(src / '*' / 'html' / '*.html')))
+    if (not eid or not (src / eid).is_dir()) and pages:
+        # 2026: the state's returns are one statewide page (tools/fetch_sos_html_results.py), not County.json
+        hp = Path(pages[-1]); text = hp.read_text()
+        import re
+        upd = re.search(r'\(Updated ([^)]+?)\s*\)', text)
+        latest = json.loads((repo / 'general-2026' / 'early-vote' / 'views' / 'latest.json').read_text())['latest']
+        s = latest['dem_primary'] + latest['gop_primary'] + latest['no_primary']
+        out = {'by': 'election-2026/tools/build_results_view.py',
+               'election': {'id': hp.parent.parent.name, 'name': '2026 NOVEMBER GENERAL ELECTION', 'updated': upd and upd.group(1)},
+               'sources': [{'file': str(hp.relative_to(repo)), 'sha256': hashlib.sha256(hp.read_bytes()).hexdigest(),
+                            'note': 'electionresults.sos.state.tx.us/results.html as served: statewide totals, no county or early split'}],
+               'composition': {'d': round(100 * latest['dem_primary'] / s, 2), 'r': round(100 * latest['gop_primary'] / s, 2), 'np': round(100 * latest['no_primary'] / s, 2)},
+               'loyal': LOYAL, **read_html(text)}
+        dst = repo / 'results' / 'views' / 'live.json'
+        dst.parent.mkdir(parents=True, exist_ok=True)
+        old = json.loads(dst.read_text()) if dst.exists() else None
+        if old and {k: v for k, v in old.items() if k != 'built'} == out:
+            print('no change'); return 0
+        out['built'] = dt.datetime.now(dt.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
+        dst.write_text(json.dumps(out, indent=1) + '\n')
+        print(f"wrote {dst.relative_to(repo)} (statewide page, updated {out['election']['updated']})")
+        return 0
     if not eid or not (src / eid).is_dir():
         print(json.dumps({'note': 'no 2026 general results saved yet'})); return 0
     ver_dir = max((p for p in (src / eid).iterdir() if p.name.startswith('v')), key=lambda p: int(p.name[1:]))
