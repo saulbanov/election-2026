@@ -31,6 +31,9 @@ def main() -> int:
     except Exception as e:
         print(json.dumps({'error': f'{URL}: {e}'})); return 1
     text = body.decode('utf-8', 'replace')
+    if not text.rstrip().endswith('</html>'):
+        # the server often cuts the page off partway (a 9 KB page held only the Senate race); wait for a whole one
+        print(json.dumps({'new': False, 'truncated': len(body)})); return 0
     m = re.search(r'data-target="#collapse(\d+)"', text)
     if not m:
         print(json.dumps({'error': 'no election id on the page; its layout may have changed'})); return 1

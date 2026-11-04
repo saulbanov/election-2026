@@ -191,7 +191,8 @@ def main() -> int:
     consts = json.loads((src / 'ElectionConstants.json').read_text()) if (src / 'ElectionConstants.json').exists() else {}
     listed = {eid: {**info, 'Y': y, 'T': t} for y, types in consts.get('electionInfo', {}).items() for t, els in types.items() for eid, info in els.items()}
     eid = a.election or next((e for e, i in listed.items() if i['Y'] == '2026' and i['T'] == 'G'), None)
-    pages = sorted(glob.glob(str(src / '*' / 'html' / '*.html')))
+    # the state's server often cuts the page off partway, dropping every race after the cut; read only whole pages
+    pages = sorted(p for p in glob.glob(str(src / '*' / 'html' / '*.html')) if Path(p).read_text().rstrip().endswith('</html>'))
     if (not eid or not (src / eid).is_dir()) and pages:
         # 2026: the state's returns are one statewide page (tools/fetch_sos_html_results.py), not County.json
         hp = Path(pages[-1]); text = hp.read_text()
