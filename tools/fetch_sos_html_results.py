@@ -12,7 +12,7 @@ User-Agent that says what it is, and saves the page exactly as served when its r
 Prints one JSON line: {"new": bool, "path": ..., "updated": "<the page's Updated stamp>"}. Exit 0, or 1 on a
 failed request.
 """
-import argparse, datetime as dt, hashlib, json, re, sys, urllib.request
+import argparse, datetime as dt, hashlib, json, re, sys, time, urllib.request
 from pathlib import Path
 
 URL = 'https://electionresults.sos.state.tx.us/results.html'
@@ -25,15 +25,19 @@ def main() -> int:
     a = ap.parse_args()
     src = Path(a.repo) / 'results' / 'sources'
     manifest = src / 'MANIFEST.jsonl'
-    try:
-        with urllib.request.urlopen(urllib.request.Request(URL, headers={'User-Agent': UA}), timeout=60) as r:
-            body = r.read()
-    except Exception as e:
-        print(json.dumps({'error': f'{URL}: {e}'})); return 1
-    text = body.decode('utf-8', 'replace')
-    if not text.rstrip().endswith('</html>'):
-        # the server often cuts the page off partway (a 9 KB page held only the Senate race); wait for a whole one
-        print(json.dumps({'new': False, 'truncated': len(body)})); return 0
+    # the server often cuts the page off partway (a 9 KB page held only the Senate race), so ask up to 6 times for a whole one
+    for attempt in range(6):
+        try:
+            with urllib.request.urlopen(urllib.request.Request(URL, headers={'User-Agent': UA}), timeout=60) as r:
+                body = r.read()
+        except Exception as e:
+            print(json.dumps({'error': f'{URL}: {e}'})); return 1
+        text = body.decode('utf-8', 'replace')
+        if text.rstrip().endswith('</html>'):
+            break
+        time.sleep(5)
+    else:
+        print(json.dumps({'new': False, 'truncated': len(body), 'attempts': 6})); return 0
     m = re.search(r'data-target="#collapse(\d+)"', text)
     if not m:
         print(json.dumps({'error': 'no election id on the page; its layout may have changed'})); return 1
